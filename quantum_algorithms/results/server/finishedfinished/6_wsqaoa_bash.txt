@@ -1,0 +1,1191 @@
+$wsqaoa_euc_shape3_paramseed-4_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.16775184 0.01477127]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.27815534 6.10680685]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-1.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.02564947 0.8275916 ]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-1.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[-0.03392357  7.1711681 ]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.3140532  3.63560026]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.0889558  4.93198972]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-1.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.23110759 4.83936231]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.24135151 5.15935683]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.12269866 3.94472337]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[0.01281012 5.58871721]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.08707422 5.32449484]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-1.txt$optimal function value: 58.02846945999997
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.03128229  5.38242872]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-1.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[-0.05631283  5.44390149]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-1.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 3.02372353 -0.01212598]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 3.01878699 -0.02018185]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.17834939 4.5842803 ]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.04478202 4.25382434]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.26094835 5.51434831]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.13959719 6.07980141]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.17289479  5.19448345]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.02578016  3.904314  ]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-1.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.23834452 4.93518379]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.12493534 6.05672975]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-1.txt$optimal function value: 32.55298180999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14448388 4.30132691]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-1.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[2.97634212 5.25650806]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[ 0.04911943 -0.07479934  2.35304938  2.03137331]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-2.txt$optimal function value: 34.11246652
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.99474947 6.25648545 2.71474083 1.68083387]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 0.0524859  -0.03863176  1.97932813  0.20003262]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.26203942 6.39585938 0.01218939 5.71605723]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.18931689 3.09018028 1.45264453 5.43252659]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.16920385 3.12978777 2.89738449 2.55826358]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.20097364 3.2389445  3.74341782 2.4736436 ]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-2.txt$optimal function value: 34.534382419999986
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.12954483  3.21521591  3.51594721 -0.9597268 ]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-2.txt$optimal function value: 63.02959926
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.36449798 4.29720671 2.01895157 0.86266161]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.24275921 3.2348304  3.82381713 6.48923593]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-2.txt$optimal function value: 61.949961970000004
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.23974605 2.9107049  3.2635658  4.83236791]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-2.txt$optimal function value: 72.16266805999996
+optimal value: [0. 0. 1. 0. 0. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.33329562 4.46302042 3.02352322 6.6552647 ]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.47021375 4.42245605 3.1818681  5.91594723]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.03305979 0.07300313 2.31193962 0.99222504]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.0546366  0.05612123 3.33285657 1.98900347]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.08929499 3.25137368 2.51623113 2.58482965]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.27484446 3.03453189 0.9836968  4.26224023]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-2.txt$optimal function value: 60.964423169999975
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.62924259 4.50390142 3.17516038 1.81930945]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-2.txt$optimal function value: 37.817205
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.51312981 4.85474184 3.04377819 2.81990735]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.60789506 4.52439412 1.14645654 1.40377447]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[-0.13328933  3.15759489  0.34522365  0.5186036 ]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.09281503 6.24478534 1.5039113  3.6770472 ]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.76862292 4.74445758 1.61466487 4.02758431]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-2.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.15186533 6.28018313 2.15594954 7.58658095]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.94008367 6.32957821 2.9716882  6.74902781]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-3.txt$optimal function value: 65.58951586999999
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.67075059 0.00549094 1.61258161 2.11483356 0.12048359 2.37971722]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-3.txt$optimal function value: 37.817205
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.48160327 5.1086123  1.53524997 1.62318017 0.00631231 4.01638232]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 3.17572526 -0.15178638  3.0639226   0.23373262  1.41070669  1.10817831]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.04044023 6.37040071 0.07353452 5.82572382 1.63935812 1.45987478]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 3.07561325  3.16048355 -0.05272699  5.48622094  1.21045236  4.04594696]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-3.txt$optimal function value: 32.55298180999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[2.96790963 3.18301188 2.96839709 2.65370963 2.94918282 3.09215543]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-3.txt$optimal function value: 34.11246652
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.14129311 3.12299416 3.04086128 2.95414672 1.33141594 4.98406945]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.50666309 4.69701391 3.09961341 1.90274093 1.04800648 2.35402001]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-3.txt$optimal function value: 63.02959926
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 2.46727357  5.00814802  2.33241744  0.86352073 -0.01161473  2.27825929]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-3.txt$optimal function value: 63.14874757999999
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.59932134 4.69426937 3.19859155 5.44082056 1.2698277  1.46677434]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-3.txt$optimal function value: 37.817205
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.32153388 4.29772154 3.18962731 5.31181384 1.61094568 2.7067576 ]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-3.txt$optimal function value: 58.02846945999997
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.03738124  4.54979522  1.36589589  6.03698783  1.54346441  2.22999944]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-3.txt$optimal function value: 37.817205
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.11831934 4.5802318  1.44044489 5.60215397 1.8692937  1.56168828]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-3.txt$optimal function value: 32.55298180999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.03979057 0.07187331 3.2917634  0.85420592 3.0911552  0.11211964]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.02797098 0.06935792 3.20765896 2.24664866 3.09779892 1.10872357]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.03895678  3.08034987  0.25902061  3.26823471  3.23606879  4.02291551]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.04249464  3.24351453 -0.00632764  4.98497482  0.35651175  3.81087081]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-3.txt$optimal function value: 60.964423169999975
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.36607019 4.73513995 3.03230042 2.63784682 2.79038395 5.47592217]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-3.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.36183819 4.64818457 3.03006857 3.08813474 3.35321981 4.20112739]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-3.txt$optimal function value: 32.55298180999998
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.56955341 4.15572336 1.05119348 1.24373856 1.53783599 3.10405575]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[-0.02299707  6.43728848  3.04170109  1.24350162  3.87795832  3.69738517]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-3.txt$optimal function value: 34.534382419999986
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.13605635 4.90555929 1.63855742 2.93634403 2.233624   6.29401036]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-3.txt$optimal function value: 34.11246652
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.23950587 4.03783263 1.14699419 3.15045025 1.1881674  6.22925819]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.1837229  6.32255409 3.19121871 6.41425257 2.46414354 4.27960904]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.2290001  6.45604717 3.27656277 6.37082225 1.87859605 4.21778591]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-4.txt$optimal function value: 37.817205
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.69905011 0.62636916 2.26976928 0.98335114 0.40370064 2.6465375
+ 2.87144693 5.02833592]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-4.txt$optimal function value: 64.87467772
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.4903377  6.16429399 1.5291302  1.65439701 0.01916122 4.93247155
+ 1.63325884 4.7723142 ]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-4.txt$optimal function value: 70.38812845999996
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.01781503 0.94820019 2.04496457 0.45439508 1.68350683 2.2976685
+ 0.18239863 3.18889173]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.75844016 5.93005239 0.33302923 4.90576301 1.62475483 2.58266612
+ 3.09017928 1.25549442]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.19119010e+00 3.28705962e+00 5.34885758e-01 6.21417388e+00
+ 2.42305818e-03 3.39567509e+00 3.05723301e+00 1.76638051e+00]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.13659004 3.14382931 3.18033797 3.17831793 2.33905885 3.50532184
+ 0.22319165 3.32328421]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.21791353 3.12758572 3.07366917 3.18028434 2.92676004 3.43758864
+ 0.74558424 3.33849125]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-4.txt$optimal function value: 59.367672529999965
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.58272514 3.2289892  1.67418136 0.27105693 0.36909123 1.61008601
+ 1.08592901 4.79066922]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-4.txt$optimal function value: 63.02959926
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.49024516 5.13115153 3.09304994 0.89679122 0.03433451 2.35463633
+ 0.86130305 5.09135205]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-4.txt$optimal function value: 62.50655003999998
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.80484395 4.31516745 2.1537562  5.33588236 0.58324815 1.4521458
+ 0.46602885 1.42479922]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-4.txt$optimal function value: 62.24957653000001
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.77505987 5.30549539 3.10816338 5.36023985 0.59063682 1.43968566
+ 0.45617247 1.41351552]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-4.txt$optimal function value: 58.02846945999997
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[0.01840692 4.25700243 1.13850675 6.97259176 0.72300715 2.61166264
+ 2.02446254 4.00195806]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-4.txt$optimal function value: 72.23320691999999
+optimal value: [0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.33561631 5.41442211 2.04851656 5.90836992 0.85164117 1.60702429
+ 2.30610038 4.13723283]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-4.txt$optimal function value: 32.55298180999998
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.99973013 0.11566806 3.2775763  0.92566297 3.99411774 0.12397416
+ 3.73106342 4.32582209]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[ 3.23513468 -0.05581345  3.08354498 -0.19278689  4.03883639  1.03633923
+  2.62397078  4.62784807]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-4.txt$optimal function value: 34.534382419999986
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.0658967  2.88779648 1.16936787 2.67841534 1.27545462 4.15580553
+ 0.87153354 4.99361885]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 9.53165377e-02  3.26955074e+00 -2.75889339e-03  3.17726537e+00
+  7.60425189e-01  3.58360840e+00  1.67643468e+00  5.09546895e+00]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-4.txt$optimal function value: 70.91799139999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.64702723 5.05697188 4.07826428 1.81738159 2.40493263 4.42391874
+ 2.07707556 0.68957452]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.98856471 4.61874303 2.9493306  1.66984055 2.35070705 4.39102992
+ 2.00200799 0.67753459]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-4.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.03653141 3.29036779 0.022892   0.07369244 1.96216315 2.79212992
+ 0.61040837 3.17252025]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[0.03510692 6.33164086 0.10569394 3.0776033  1.16845717 3.0173452
+ 0.79009408 2.52378527]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-4.txt$optimal function value: 60.964423169999975
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[3.12649558 4.93345988 1.63265798 3.21578501 2.23883521 6.2565065
+ 0.89848129 1.9359838 ]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-4.txt$optimal function value: 63.02959926
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.2118356  4.7488527  1.50380134 3.14200769 1.25294473 6.23250973
+ 1.91365138 0.9199631 ]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-4.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[2.98769688 6.13638688 2.96178367 6.34088229 1.90269001 3.54100778
+ 1.88429174 5.29792054]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.30416887 6.22236995 3.26416078 6.33182706 0.87155358 4.32173485
+ 2.22014927 5.7842667 ]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-5.txt$optimal function value: 64.87467772
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.74155442 1.64827802 1.24435021 0.97372684 0.20903413 2.52330492
+ 2.88387105 5.02938574 2.40380112 1.39433517]
+ ||$wsqaoa_euc_shape3_paramseed-5_p-5.txt$optimal function value: 61.949961970000004
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 1.832854    5.0460056   2.85194493  5.92429223  3.57483183  6.82011804
+ -0.11060102  3.07057524  2.9271225   3.79157432]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 3.45423284e+00  6.20626131e+00  1.73753826e+00  1.56407429e+00
+ -2.49765829e-04  4.18928486e+00  2.63139837e+00  4.80011635e+00
+  1.23047246e+00  4.70907488e+00]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-5.txt$optimal function value: 65.88913043
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.0173979  0.94779463 2.04506738 1.45512101 2.68335541 3.29743932
+ 0.18200736 3.18827844 0.11782293 2.72476789]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.15559047 6.4625818  0.10124092 3.23495914 0.18113253 2.54459881
+ 3.56376339 1.29275653 2.1653533  2.4199863 ]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-5.txt$optimal function value: 37.817205
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.12746517 3.07133785 0.01164891 6.2699438  0.05112    4.26796602
+ 3.02364748 0.16020305 1.62852265 3.75678036]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-5.txt$optimal function value: 66.29076064
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.64646905 3.41561447 2.9223789  3.16259257 1.6561443  3.66716013
+ 0.55561955 3.24155482 2.96716166 4.95524489]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-5.txt$optimal function value: 65.58951586999999
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.42418024 3.39668853 2.98185024 2.85566029 1.78578382 3.68497103
+ 0.56979093 3.20647084 1.96070421 4.97208252]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-5.txt$optimal function value: 64.74549821999997
+optimal value: [0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.33446928 3.99759413 2.19597948 0.77275815 0.07467218 2.43597016
+ 1.85917745 4.87693779 2.29683499 3.68776016]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-5.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 2.63761037  3.59273197  1.97423758  1.78687362 -0.20635527  2.06064885
+  1.79320591  5.35754451  2.20426934  3.54572072]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-5.txt$optimal function value: 62.50655003999998
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.96690734 3.8901838  1.669465   5.68152575 0.03511578 0.87009515
+ 0.13611512 1.27651175 1.8535197  1.76051202]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-5.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.81374219 4.30495407 2.14851189 5.33446367 0.58263354 1.45001693
+ 0.46305124 1.41572333 2.30586191 0.81806536]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-5.txt$optimal function value: 58.02846945999997
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[0.24278953 4.41802937 1.87255531 6.61009015 0.48750653 1.6047399
+ 2.66070925 5.05924451 0.8214107  4.01375981]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-5.txt$optimal function value: 71.93359236000003
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0.]
+status: SUCCESS
+ ||[0.33592229 4.41331533 2.04950462 6.90815542 0.85217759 1.60756259
+ 3.30577028 4.13722423 0.95210497 4.29913526]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 3.16743329 -0.0355444   3.05483832 -0.01921429  3.14937226 -0.26846722
+  2.22129477  3.52343366  2.26129652  5.72102591]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[ 3.77911893 -0.12991502  2.88503844  0.5592933   3.23676669  0.12344285
+  3.05749561  4.42954978  2.72369887  6.64668002]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.88759324 4.06908313 1.28685901 2.83844816 1.24628563 4.1428551
+ 1.04415399 3.96427757 0.99837398 1.83736998]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-5.txt$optimal function value: 65.88913043
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.12325407 3.82974125 1.25690809 2.76645057 1.32747039 4.16772116
+ 0.90120032 3.94850398 0.16478358 1.80969094]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-5.txt$optimal function value: 58.02846945999997
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[3.03921783 4.45425356 3.00277513 1.40921749 3.24994918 5.24790226
+ 3.07823934 0.9439772  0.05148838 3.26802567]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.71235151 4.76366966 3.16514143 1.57797989 3.44205644 4.46460648
+ 2.06185513 0.72389919 0.03268386 2.15618996]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-5.txt$optimal function value: 64.29719343999997
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.57026303 4.15825137 1.04905347 1.24058288 1.54304663 3.1042932
+ 1.5080029  3.87913888 0.83211618 1.59101795]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-5.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.58379398 5.07176621 2.06585627 1.25263229 1.8041965  3.09248498
+ 1.49026482 2.87507568 0.81904896 1.57254565]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-5.txt$optimal function value: 32.55298180999998
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.76038374 5.97596599 1.57022619 3.12478035 1.7274802  6.15536504
+ 1.13265902 0.94159931 0.7504053  1.60464804]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-5.txt$optimal function value: 61.949961970000004
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[2.12719412 5.9317739  1.63507655 3.97039799 1.17937869 7.26319316
+ 0.90902768 0.93156924 0.82015904 1.63638714]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.23405335 6.36083599 3.20045978 6.38863479 0.00965248 5.53489573
+ 4.54509585 6.73793993 0.67038723 1.98737839]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-5.txt$optimal function value: 61.949961970000004
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.85576547 4.22578091 2.32503998 5.64690086 0.67148955 3.87752555
+ 2.84006276 5.37195177 2.8024492  1.06247642]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-6.txt$optimal function value: 62.24957653000001
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.72841732 1.6482421  1.24849438 0.96119963 0.21014043 2.51962376
+ 2.8660113  5.02146384 2.39820335 1.39144122 1.67617082 1.74558539]
+ ||$wsqaoa_euc_shape3_paramseed-5_p-6.txt$optimal function value: 62.24957653000001
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.92829994 4.65883828 3.49982133 5.94014103 3.57241937 6.82697183
+ 0.12839974 2.94547037 3.96403913 4.07046168 2.81439663 0.71780004]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-6.txt$optimal function value: 70.38812845999996
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 1. 0. 0.]
+status: SUCCESS
+ ||[2.49226285 5.16460801 2.52401072 2.64331214 1.00130312 4.16179468
+ 1.47665505 4.77477192 1.17079394 4.83776635 0.85758482 5.03787491]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-6.txt$optimal function value: 70.38812845999996
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 1. 0.]
+status: SUCCESS
+ ||[1.02359299 1.96591834 3.0428904  0.45400932 1.66049342 2.29705026
+ 1.17981665 3.18763431 0.11953813 2.72039137 0.2204681  0.56932392]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-6.txt$optimal function value: 65.58951586999999
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[0.35862709 6.29449023 0.19763292 4.89152529 0.65386162 1.56877966
+ 4.21433115 1.46052855 1.93544495 3.144925   1.62816835 3.45639163]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-6.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 3.16315727  3.28501946 -0.03655313  6.43761948 -0.21837511  3.06902633
+  2.63660637  1.50997243  1.69808355  3.9269442   0.10527473  2.37446131]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-6.txt$optimal function value: 64.29719343999997
+optimal value: [0. 1. 0. 0. 0. 0. 1. 1. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.62226958 3.05935592 2.90031996 2.92429601 1.7741935  3.22117027
+ 0.08133272 4.2178074  2.97815353 6.00628364 1.27041072 1.9048706 ]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-6.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.95014169 3.19448459 2.73827078 2.81303505 1.81099855 3.48284894
+ 1.62055453 3.17327796 3.05435456 4.91515596 0.00709338 1.55750735]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-6.txt$optimal function value: 63.14874757999999
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.46551408 5.25423261 2.15182151 1.36377692 0.13473367 2.30738135
+ 0.84660645 5.06329814 3.1685377  3.77682053 1.72915988 4.1306804 ]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-6.txt$optimal function value: 71.93359235999998
+optimal value: [0. 0. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.50812014  3.97203454  1.9741594   0.66028177 -0.18636101  2.32601041
+  1.02989655  4.78942794  1.94718203  4.80412526  1.7310918   4.16522737]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-6.txt$optimal function value: 68.77527402000001
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.81358659 4.30555687 2.14923187 5.33663113 0.58342348 1.44898613
+ 0.46250931 1.41466977 2.30620665 0.81821463 1.66917073 1.34398148]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-6.txt$optimal function value: 67.73420888999999
+optimal value: [0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.33800233 5.16442257 2.13528245 5.30902053 0.58128981 1.43760553
+ 0.45484107 1.40148831 3.31473833 0.79185227 1.64440834 1.30837531]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-6.txt$optimal function value: 66.29076064
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.32915479 4.41370519 2.04762249 5.84772351 0.84668025 1.60115774
+ 2.29957578 5.13181636 0.95598365 4.29758801 1.24132508 4.88839222]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-6.txt$optimal function value: 65.58951586999999
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[0.33580933 5.41482638 2.04894413 5.90775194 0.85267831 1.60669354
+ 2.30579303 4.13705709 1.95174876 4.29913213 1.24601203 4.88516716]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-6.txt$optimal function value: 75.24692180000002
+optimal value: [0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.46052661 1.62750523 3.31759257 1.3678434  3.38407553 0.10556327
+ 2.94007938 4.25853038 2.41749873 6.36594247 0.77966465 2.02948439]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-6.txt$optimal function value: 67.43459432999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.01734265 0.07649761 3.30982598 1.00754055 3.0950988  1.09962819
+ 2.76192279 4.27805436 2.69768809 7.40479756 0.75168407 2.12876282]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-6.txt$optimal function value: 72.16266805999996
+optimal value: [0. 0. 0. 1. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[2.1283706  3.10710864 1.40027696 2.83195014 2.13120985 4.03887324
+ 0.8625303  3.82625239 0.08957637 2.81627365 0.97889393 1.1181566 ]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-6.txt$optimal function value: 32.53962615999998
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 1.12164406  4.16848123  2.37996447  2.56626954  1.06029456  3.94361302
+  0.68748184  3.8617741  -0.057052    1.83251547  0.93209054  0.75463892]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-6.txt$optimal function value: 64.29719343999997
+optimal value: [1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.63986631 5.06858639 3.01748754 1.81978379 2.40680345 4.42475816
+ 2.07776713 1.69212723 0.08464349 2.41376586 2.34482775 1.58581984]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-6.txt$optimal function value: 71.93359236000003
+optimal value: [1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.70378924 6.10276354 3.09242181 3.04791574 2.48299611 4.41868839
+ 2.01699336 0.82487762 0.518001   2.40757024 3.33885807 1.56537978]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-6.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.56878373 5.16897168 1.02530359 1.25561679 1.53938772 3.10425717
+ 1.50728703 2.87989776 0.83125984 1.59509541 2.17393834 2.03874016]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-6.txt$optimal function value: 34.11246652
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.56941227 4.15591858 2.05098863 1.24367434 1.53786818 3.10404076
+ 1.50723384 2.87974762 0.83098979 1.59466931 2.17360436 2.03846781]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-6.txt$optimal function value: 68.77527402000001
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.12724765 5.93180898 1.63430018 3.21383826 1.23653043 7.26330321
+ 0.90902068 1.93166219 0.81991522 1.63631246 1.02887761 1.68337198]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-6.txt$optimal function value: 67.43459432999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.65531823 6.70350693 1.40401901 4.28442158 0.98177109 7.38764253
+ 0.38597    0.31223346 1.82278246 1.31358407 2.04414351 1.11742892]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-6.txt$optimal function value: 68.77527402000001
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.84739378 4.30917717 2.37098767 6.72015803 1.29124016 3.95166001
+ 2.7911786  5.40909934 1.74414076 2.06593472 1.22772706 6.17448693]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-6.txt$optimal function value: 72.23320691999999
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.84538628 4.31146221 2.40815265 5.68377216 0.81626219 4.99363715
+ 2.84250963 5.48071777 1.79992582 2.0641867  1.29244284 6.24606906]
+ ||$wsqaoa_euc_shape3_paramseed-2_p-7.txt$optimal function value: 74.10710375999997
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0.]
+status: SUCCESS
+ ||[4.00213638 6.95861477 1.17734321 0.53923829 2.62155446 4.62409671
+ 2.10866812 1.93470699 2.06512458 4.65281168 1.72606945 0.99253422
+ 2.35323278 2.47358108]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-7.txt$optimal function value: 62.24957653000001
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.74152896 0.64818199 1.24424603 0.97395147 0.20884185 2.52315572
+ 2.88400502 5.02939419 2.4039141  1.3944401  1.68600872 1.73836462
+ 0.54246809 0.66722937]
+ ||$wsqaoa_euc_shape3_paramseed-5_p-7.txt$optimal function value: 67.73420888999999
+optimal value: [0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.25117223e+00 5.81911370e+00 2.87948577e+00 6.00879476e+00
+ 2.57846336e+00 5.96484963e+00 4.49837170e-03 2.79800148e+00
+ 2.99616266e+00 4.13388650e+00 2.79133713e+00 5.82649030e-01
+ 1.49591303e+00 1.69280794e+00]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-7.txt$optimal function value: 87.43067349
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 1. 1. 0. 0.]
+status: SUCCESS
+ ||[3.49173211e+00 6.16610802e+00 1.52287715e+00 1.64359396e+00
+ 2.66534498e-03 4.16501714e+00 1.47876417e+00 4.77357021e+00
+ 1.17201412e+00 4.83900635e+00 8.56875765e-01 5.03874741e+00
+ 2.29323035e+00 2.60101171e+00]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-7.txt$optimal function value: 63.02959926
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[ 0.88941592  0.76179357  1.93565301  0.36489227  1.61526767  2.15106556
+  0.07505928  2.99208512 -0.03247785  2.57575798  0.14712448  0.40606719
+  1.31101485  5.03278642]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-7.txt$optimal function value: 61.949961970000004
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[0.71232495 6.04611001 1.39685816 4.4282436  0.26769381 2.55470307
+ 3.13893103 1.31570257 2.01650731 2.88488526 1.42363187 4.11009994
+ 0.60405921 5.21828713]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-7.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[ 3.14153625  3.23285425  0.02984687  6.24095025 -0.14885692  2.98745908
+  3.22689465  2.20458794  1.53923197  3.32886351  1.63090096  2.23741181
+  2.30061883  4.43586486]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-7.txt$optimal function value: 64.29719343999997
+optimal value: [0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.67954735 3.44016144 2.86649891 2.87592776 1.70155883 3.49843116
+ 0.48218831 3.35058588 1.97879842 4.95677383 0.49603329 1.90558495
+ 0.31819503 5.0301021 ]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-7.txt$optimal function value: 70.38812845999996
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1.]
+status: SUCCESS
+ ||[1.42174349 3.51455618 2.9027958  3.92576682 1.59588192 3.79131664
+ 0.50392804 3.21817833 1.97944448 4.98248368 0.29556132 1.90697312
+ 0.28460735 5.08728454]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-7.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[2.47871667 4.14020512 2.10094108 1.8814587  0.02898661 3.35074032
+ 0.85984895 5.11651672 3.16348019 3.77557541 1.76814492 4.1489027
+ 0.45392037 2.75708037]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-7.txt$optimal function value: 70.38812845999996
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.4822311  4.07043556 2.08042503 0.85281518 0.00621786 2.43313646
+ 1.0833922  5.08433419 2.16315891 3.77881804 1.7447243  4.14790282
+ 0.45417372 2.76186805]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-7.txt$optimal function value: 66.29076064
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[0.81290909 4.30607623 2.14945801 5.33632999 1.58339268 1.4484544
+ 0.46148663 1.4130918  2.30502718 1.81767091 1.67212602 1.34443712
+ 0.92527312 2.71169619]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-7.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.52464056 5.33055843 2.13905161 6.34559273 0.53362386 1.82176163
+ 0.44099511 1.33567141 2.26793847 0.73452865 1.65439166 1.32345909
+ 0.88576269 2.62539305]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-7.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.33563395 5.4146297  2.04783772 5.90942313 0.85150014 1.60695849
+ 3.30620922 4.13701887 1.95174155 4.2990891  1.24599449 5.88534781
+ 0.37214843 1.40414542]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-7.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.21239274 4.42832738 1.86499791 5.77775752 0.83720034 1.44208247
+ 2.20227859 4.20175652 1.33095798 4.29626243 1.22751157 4.88205726
+ 0.33851255 2.40967762]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-7.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[4.09449906 0.06954922 2.329019   1.04784258 3.03164705 0.0764022
+ 3.45457823 4.25292754 2.69427344 7.28166348 0.75456888 2.12516699
+ 2.64518823 1.76553771]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-7.txt$optimal function value: 62.24957653000001
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.03180899 0.06971741 2.31070837 0.99568856 3.09942332 0.10418409
+ 2.76506557 4.28173809 3.69453046 7.28064569 0.75485891 3.12443788
+ 2.22785041 1.76335638]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-7.txt$optimal function value: 60.964423169999975
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[2.1441276  4.0124042  1.28488447 2.80774839 2.54615394 4.13299266
+ 0.8058802  4.98327375 0.03838937 1.90146812 1.05299687 0.89372891
+ 2.33732485 1.95061451]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-7.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.1422777  4.014795   2.3268114  2.80019043 1.29289951 4.12499311
+ 0.80107763 4.99635219 0.78281653 1.89725999 1.05263024 0.90284978
+ 2.33317594 1.94582294]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-7.txt$optimal function value: 63.14874757999999
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.65106243 5.04822461 3.03055854 1.81051801 3.41083321 4.40752898
+ 2.06475253 0.64121278 0.09534594 2.41415128 2.33439327 1.58064792
+ 1.56999189 2.02144254]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-7.txt$optimal function value: 74.10710375999997
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 1. 0.]
+status: SUCCESS
+ ||[2.8751559  5.06862643 4.01796461 1.8199875  2.40672506 4.50853891
+ 2.07739042 0.69193223 0.08353408 2.4142716  2.34468848 1.58535055
+ 1.57474112 1.99402531]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-7.txt$optimal function value: 62.50655003999998
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.5674035  5.16550129 1.05500227 1.22226783 1.53453625 4.10113451
+ 1.52152098 2.88240129 0.83002279 1.60276394 2.17779491 3.03968749
+ 2.10734459 4.9537428 ]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-7.txt$optimal function value: 67.73420888999999
+optimal value: [0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56940532 4.15592863 2.05103108 1.24370644 1.53786684 3.10409786
+ 1.50726722 2.87980298 0.83105368 1.59465868 2.17363816 2.03852758
+ 2.12005288 4.94596921]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-7.txt$optimal function value: 62.50655003999998
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[2.12721307 5.93174284 1.6351223  3.21383937 1.23633192 6.26319277
+ 0.9090402  0.93155898 0.8202176  2.63641241 1.02846064 1.68333867
+ 0.33814532 2.04522203]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-7.txt$optimal function value: 73.72662588
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[2.12918677 5.92708303 1.63564621 3.21089774 1.24130436 6.22946246
+ 0.91417917 0.93734726 0.82333167 1.64926805 1.92407951 1.59566015
+ 0.28954029 2.04564171]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-7.txt$optimal function value: 68.07826849
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.83774    4.3102287  2.41015269 6.68079366 1.81163912 3.99689236
+ 2.84409102 5.47923605 1.79941257 2.06697149 1.29334023 6.24627184
+ 0.32729547 2.00344815]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-7.txt$optimal function value: 62.24957653000001
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.84506955 4.31709226 2.40800316 5.68164751 1.80241926 3.99209146
+ 2.84369327 5.47978171 1.79848294 1.06302233 1.29170485 6.24463829
+ 0.32354204 2.00421629]
+ ||$wsqaoa_euc_shape3_paramseed-2_p-8.txt$optimal function value: 82.63061898000001
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[4.00378579 5.95587895 0.18322452 0.54301924 2.62019933 4.6207691
+ 3.09372167 1.93891162 1.89692202 3.81368016 1.82755795 0.99590498
+ 1.3517757  2.47483411 2.26996188 7.25241039]
+ ||$wsqaoa_euc_shape3_paramseed-3_p-8.txt$optimal function value: 62.24957653000001
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.73259499  4.50042847  1.11152663  3.76669509  1.86642481  0.42190633
+ -0.01072283  5.41389613  0.69353943  1.5135593   3.091371    2.9434081
+  2.64021714  3.01536778  1.98623086  0.72865571]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-8.txt$optimal function value: 62.24957653000001
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[0.741563   0.64815113 1.24423257 0.97371931 0.20898222 2.52326798
+ 2.88386296 5.02942184 2.40386972 1.39446119 1.68615918 1.73844341
+ 0.54242141 0.66717096 0.67354449 6.82751049]
+ ||$wsqaoa_euc_shape3_paramseed-5_p-8.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.52053555 4.5904698  2.66490717 6.85780761 3.28295271 5.77359093
+ 0.58361925 2.92356972 3.96184442 4.99557855 3.03737411 0.67071317
+ 2.53630443 1.52142445 1.63802133 3.58414359]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-8.txt$optimal function value: 63.02959926
+optimal value: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.47581596 5.15791058 1.53324282 1.63772749 0.01416096 4.14992512
+ 1.49382304 5.79236281 1.1733159  4.81021026 0.85959298 5.02285513
+ 2.2459867  2.60393683 1.75257768 4.5184867 ]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-8.txt$optimal function value: 74.10710375999997
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1.]
+status: SUCCESS
+ ||[ 2.44393050e+00  4.56899099e-01  1.70450273e+00  3.17401341e-01
+  1.57057646e+00  2.24832462e+00  5.20724954e-02  3.07913237e+00
+ -2.27594689e-03  2.71647879e+00 -1.27397854e-01  2.52686927e-01
+  1.05072446e+00  4.90364525e+00  3.55023392e-01  2.44189344e+00]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-8.txt$optimal function value: 62.24957653000001
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[1.4389363  7.07260172 0.79949769 4.41281232 0.23735651 1.50806079
+ 3.10654067 1.29917278 1.99486014 2.85783508 1.40851772 3.08066265
+ 0.57956085 5.17372729 0.24610438 1.4318731 ]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-8.txt$optimal function value: 61.949961970000004
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[ 3.01216242  2.94862129  0.09491143  6.4330011  -0.03267752  3.16157756
+  3.30219629  0.25263122  2.85937079  4.87816087  0.67290266  2.93489691
+  2.28777948  2.84126581  2.26647982  1.73567024]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-8.txt$optimal function value: 68.77527402000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.43144809 3.50554995 2.93652401 2.93672624 1.64773481 3.68467219
+ 0.57898202 3.20985897 1.93401444 4.95110443 0.29491794 1.90724358
+ 0.26139343 5.08139971 2.18231829 0.26665214]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-8.txt$optimal function value: 62.24957653000001
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.41803909 3.50796162 2.90664954 2.91813698 1.58832033 3.67217409
+ 0.57687068 3.20584957 1.97957751 4.9783541  0.29738026 2.86833769
+ 0.78268273 6.0882407  2.17706073 0.26293283]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-8.txt$optimal function value: 34.534382419999986
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 2.56341268  3.930431    3.1582987   0.74142506 -0.37754789  2.17705364
+  0.69907478  4.81298646  1.7972829   3.58716297  1.63044407  3.99671076
+  0.09774318  2.52581389 -0.01032301  5.58201412]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-8.txt$optimal function value: 84.47713936000002
+optimal value: [0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.49102445 4.13104676 2.0936802  1.89586681 0.03425781 2.35478892
+ 0.86109455 5.09145915 2.16938794 3.77883363 1.75353683 4.15515555
+ 0.45656264 2.76489282 1.50985797 5.69231707]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-8.txt$optimal function value: 68.07826849
+optimal value: [0. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[0.85089338 4.39675022 3.1453274  5.39391332 0.57764479 1.42315754
+ 0.45026264 2.41453269 3.30415693 0.80365603 1.64452106 1.32774318
+ 0.91733542 2.68981646 2.63184298 3.80943855]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-8.txt$optimal function value: 64.87467772
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.82086858 4.30645897 2.15147467 5.32702893 0.58645267 1.44654927
+ 0.45857542 1.41982256 3.30223124 0.81775836 1.67013485 1.34485816
+ 0.92521104 2.70897136 2.63520261 3.82040949]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-8.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.33524897 4.41458691 2.04816098 6.90834423 0.851851   2.60693402
+ 3.30578371 4.13700494 0.95209377 4.29892051 1.24616333 4.88519621
+ 0.37169622 1.40243706 2.83140123 2.25011608]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-8.txt$optimal function value: 72.23320691999999
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.33566677 4.41454581 2.04847314 5.90834735 0.85175384 1.6071647
+ 2.30619965 4.13716086 0.95184812 4.2991145  1.24617947 5.88530468
+ 0.37196161 1.40281435 2.83197108 2.24973842]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-8.txt$optimal function value: 68.96916678
+optimal value: [1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[4.03336402 0.07373248 3.31394043 1.99316506 3.09868172 0.10540028
+ 2.76199823 4.28064177 2.69405239 6.28055524 0.75147212 2.12372917
+ 2.22505821 1.76375435 0.82885039 1.43461976]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-8.txt$optimal function value: 37.817205
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[4.01601005 1.04566999 3.28426932 0.98388947 4.12190462 0.07742738
+ 2.69855687 4.45401225 2.85039016 6.27469743 0.74521081 2.11793418
+ 2.21888394 1.74943046 0.82442954 1.42036233]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-8.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.39765292  3.74559944  2.36454546  3.31156215  1.23509871  4.3465823
+  0.96767237  3.98375232 -0.03690209  1.85654975  0.96338947  0.81960485
+  3.353105    1.7900191   2.45112194  5.98074779]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-8.txt$optimal function value: 65.58951586999999
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[ 1.0651406   2.98207466  2.10430156  3.36346765  1.27493868  4.12123251
+  0.80194928  3.97535945 -0.00645694  1.87612491  2.05571357  0.87620185
+  2.32784286  1.93094262  2.44760781  5.98775257]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-8.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.66794631 6.09405045 3.02461728 1.82267617 2.44811368 4.42683384
+ 2.05443837 0.68162015 0.08186897 2.41479686 2.34804357 2.58407442
+ 1.57717633 1.99614292 3.65643846 5.93816916]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-8.txt$optimal function value: 70.38812845999996
+optimal value: [1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 1. 0.]
+status: SUCCESS
+ ||[1.63899446 6.06871995 3.01665862 1.81842007 3.40964571 4.42570668
+ 2.07832809 0.69119125 0.07879532 2.41633808 2.34726152 1.58513139
+ 1.57755799 1.99145726 2.65865984 5.93952743]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-8.txt$optimal function value: 64.74549821999997
+optimal value: [0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.60240585 4.20428647 1.07359982 2.24715589 1.53118503 4.10736228
+ 1.51108549 2.87891474 1.8309205  1.59380762 2.17297458 3.03853401
+ 2.11982353 4.94563241 2.72070288 5.93150654]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-8.txt$optimal function value: 70.38812846000002
+optimal value: [1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.86643243 5.16831527 0.69737769 1.08407639 1.17058275 2.92482054
+ 1.20204386 2.64367003 0.53952854 1.59152191 1.90728596 1.80302725
+ 1.6908244  4.91775932 2.5243451  7.02877823]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-8.txt$optimal function value: 64.29719343999997
+optimal value: [0. 0. 1. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[2.12677925 4.93069295 1.63405366 4.2167536  1.23175756 7.26411105
+ 1.90834675 0.93283652 0.82010513 1.64066566 1.02530207 1.68130384
+ 0.33773722 2.04496565 1.97446957 3.57621368]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-8.txt$optimal function value: 71.93359236000003
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0.]
+status: SUCCESS
+ ||[3.09873166e+00 4.76221852e+00 1.54493112e+00 3.57334187e+00
+ 2.34307578e+00 5.77912682e+00 4.82343694e-01 5.71313780e-01
+ 4.81355008e-01 1.46918662e+00 7.57395772e-01 1.35578994e+00
+ 4.47091437e-04 1.90760810e+00 8.96098930e-01 3.33920181e+00]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-8.txt$optimal function value: 68.96916678
+optimal value: [0. 1. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[3.02484543 5.35161702 2.45519237 6.12748492 0.77187077 3.98698265
+ 2.71707535 5.42202089 1.77391396 1.01961608 1.22875708 6.1987293
+ 0.31149802 2.00099871 2.93469667 2.80831804]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-8.txt$optimal function value: 61.949961970000004
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[2.82884317 4.32718386 2.39031577 5.70693312 0.81903063 3.99799947
+ 2.83934569 6.44360416 1.76902701 1.03038523 1.29292584 6.20701641
+ 0.29932953 2.23203055 3.049517   2.81761383]
+ ||$wsqaoa_euc_shape3_paramseed-2_p-9.txt$optimal function value: 70.08851390000001
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.99767902 6.96547254 0.16005559 1.01814388 2.62418054 5.62444922
+ 2.10358408 1.92320027 2.91979693 3.76191097 1.79278833 0.92854401
+ 1.31439525 2.43809182 2.25327769 6.23158177 2.94102922 3.39138339]
+ ||$wsqaoa_euc_shape3_paramseed-3_p-9.txt$optimal function value: 64.87467772
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.74758871 3.41949559 1.16225413 3.79455538 1.96577404 0.41172329
+ 0.04138423 5.2619705  0.81478956 1.47234965 3.12792172 2.95475146
+ 2.62782199 2.9930696  2.00764527 0.9463876  1.99445656 5.4540414 ]
+ ||$wsqaoa_euc_shape3_paramseed-4_p-9.txt$optimal function value: 80.78698243999997
+optimal value: [0. 1. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.76624571 0.63771682 1.24686298 0.98904123 0.19998654 3.52839513
+ 2.86577365 5.0126721  2.41986257 1.37623287 1.67096002 1.7123372
+ 1.55677851 0.62901722 0.92061088 5.83354313 2.59956976 5.06591909]
+ ||$wsqaoa_euc_shape3_paramseed-5_p-9.txt$optimal function value: 67.43459432999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.37015696  4.72843739  3.07992857  6.26989008  3.35736234  5.71919708
+  0.2836945   3.07586368  2.87337414  4.03858053  2.75921894  0.63622921
+  2.47342292  2.56193416  1.65161614  3.52943111 -0.02017067  1.29409293]
+ ||$wsqaoa_euc_shape3_paramseed-6_p-9.txt$optimal function value: 64.87467772
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.49329644 5.16944123 1.54497343 1.65729535 0.01537834 5.15487595
+ 1.47102149 4.76227428 2.16897644 4.83717821 0.86186592 5.03415722
+ 2.29587793 3.60116919 1.68516073 4.28232159 0.60558876 3.47732953]
+ ||$wsqaoa_euc_shape3_paramseed-7_p-9.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.01066161 1.03149239 2.03476964 0.44090485 1.69444073 2.30042982
+ 0.1422003  3.23686302 0.09844483 2.70837301 0.19718675 0.58202356
+ 1.32333078 5.17892069 0.38017955 1.40267905 2.00672862 6.92301427]
+ ||$wsqaoa_euc_shape3_paramseed-8_p-9.txt$optimal function value: 64.87467772
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.72247135 6.08991256 1.43124663 4.66376543 0.27474621 2.49755557
+ 3.13851159 1.31277334 2.00584542 2.87522041 1.42130877 3.10951725
+ 0.60052244 5.20845215 0.27352865 1.4620711  0.05523358 1.66609973]
+ ||$wsqaoa_euc_shape3_paramseed-9_p-9.txt$optimal function value: 34.11246652
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[ 1.45383606  3.31621253  0.21791654  6.4556687   0.01772081  3.27241378
+  2.84068008  0.48340433  1.72184271  4.80984747 -0.11456112  2.38109568
+  2.20960845  2.83851381  2.28234987  0.98899231  0.75436276  1.69782728]
+ ||$wsqaoa_euc_shape2_paramseed-11_p-9.txt$optimal function value: 68.96916678
+optimal value: [1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[2.48152507 3.55370097 3.09421504 2.83311115 1.58388953 3.7102624
+ 0.58439497 3.07268408 1.83791438 4.9314577  0.29209256 1.80686121
+ 0.33122511 4.97711286 2.10067823 0.26168075 2.98048089 6.00984017]
+ ||$wsqaoa_euc_shape3_paramseed-11_p-9.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.42117562 4.51703755 2.90349352 2.92580587 1.59546325 3.69058507
+ 0.58012453 3.21631268 1.97871939 4.98240235 0.29561411 1.9063725
+ 0.28490891 5.08706568 2.17855482 0.26305952 3.08569458 7.06165781]
+ ||$wsqaoa_euc_shape2_paramseed-12_p-9.txt$optimal function value: 76.53131687999999
+optimal value: [0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.49092875 4.13102623 2.0935922  0.89599519 1.03402856 2.35466718
+ 1.86095025 5.09155516 2.16956941 3.77905574 1.7536171  4.15516069
+ 1.45657049 2.76498618 0.50980543 5.69235924 0.18484185 5.14482253]
+ ||$wsqaoa_euc_shape3_paramseed-12_p-9.txt$optimal function value: 37.817205
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.48908004 4.1312194  2.09153932 0.89365518 0.03692602 2.35562457
+ 0.86132778 5.09478225 2.167887   3.77857575 1.75234685 4.15631712
+ 0.45593454 2.76575998 0.50618075 5.69018523 0.18184843 5.14544904]
+ ||$wsqaoa_euc_shape2_paramseed-13_p-9.txt$optimal function value: 60.964423169999975
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[1.82732016 4.28759273 2.11336269 5.30815106 1.48345824 1.50018074
+ 0.46027662 2.41771044 2.29661027 0.82440485 1.66279526 1.34292421
+ 0.9169234  2.71169006 2.62425277 3.82544849 0.03638213 1.73235494]
+ ||$wsqaoa_euc_shape3_paramseed-13_p-9.txt$optimal function value: 64.87467772
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.82365360e+00 5.33777117e+00 2.64153013e+00 5.31410923e+00
+ 1.59370228e+00 1.43525517e+00 4.50968638e-01 1.39950224e+00
+ 2.28606454e+00 8.02797962e-01 1.62417087e+00 1.27135956e+00
+ 9.09185887e-01 2.70403440e+00 2.56395363e+00 3.79434517e+00
+ 4.88108192e-03 1.69265243e+00]
+ ||$wsqaoa_euc_shape2_paramseed-14_p-9.txt$optimal function value: 76.53131687999999
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.3345255  4.41922286 3.05293982 5.91609339 0.85912996 1.60148256
+ 3.31174393 4.1323104  0.94350496 5.30816216 1.24653835 4.88846742
+ 0.37045948 1.26933749 2.83615113 2.24949028 0.81678712 5.05237173]
+ ||$wsqaoa_euc_shape3_paramseed-14_p-9.txt$optimal function value: 61.949961970000004
+optimal value: [1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[0.34493358 4.42042653 3.06598531 6.90968312 0.84848399 1.59843356
+ 2.29338919 4.15024831 0.96424453 4.28590361 1.21649258 5.8296249
+ 0.61094559 1.40208956 2.80985676 2.24415077 0.81786477 5.05104689]
+ ||$wsqaoa_euc_shape2_paramseed-15_p-9.txt$optimal function value: 32.55298180999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0.]
+status: SUCCESS
+ ||[3.46669682 0.04552755 3.32036191 0.96694258 3.13298281 0.28689939
+ 2.73583588 4.26421438 3.01736454 6.6033379  0.74600114 2.12242746
+ 2.20912141 1.74500776 0.85236523 1.41424831 2.69256909 5.49098301]
+ ||$wsqaoa_euc_shape3_paramseed-15_p-9.txt$optimal function value: 72.64698858999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[4.03248053 1.07328195 2.31220295 0.9928064  4.09851861 0.10601612
+ 2.76307629 4.28103267 2.69348007 6.28195834 0.75304957 2.12422486
+ 3.22493246 1.76300214 0.8271957  1.43635709 2.69484845 5.49489834]
+ ||$wsqaoa_euc_shape2_paramseed-16_p-9.txt$optimal function value: 68.07826849
+optimal value: [1. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.13431742 4.01803546 1.30930754 2.80729699 1.28596249 4.13279785
+ 0.81277109 3.98874761 0.0315644  1.89544893 2.05317438 0.89105411
+ 2.3350195  1.94918151 2.48050747 6.0070096  0.79522528 6.61409574]
+ ||$wsqaoa_euc_shape3_paramseed-16_p-9.txt$optimal function value: 37.817205
+optimal value: [0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[2.13575455 3.01895385 1.30991384 2.80694503 1.28654889 4.13240007
+ 0.81316169 3.98972176 0.03172609 2.8977507  1.0526248  0.89193095
+ 2.33553481 1.94856115 2.47935033 6.00810381 0.79629205 5.61425047]
+ ||$wsqaoa_euc_shape2_paramseed-17_p-9.txt$optimal function value: 63.14874757999999
+optimal value: [0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.61775238 6.09567635 3.10018067 1.87871239 3.36045215 4.42312706
+ 2.08264512 0.66853384 0.07941875 2.41484809 2.33306901 1.57575827
+ 1.57190957 1.96802335 2.66203349 5.92907905 2.25087766 6.26101021]
+ ||$wsqaoa_euc_shape3_paramseed-17_p-9.txt$optimal function value: 37.817205
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[1.63340365 6.0242448  3.03174905 1.86354718 3.42543763 4.33844726
+ 2.06921833 0.670113   0.08497332 2.38022611 2.34806143 1.55306268
+ 1.56785323 1.98232293 2.62588261 5.92568439 1.2263489  6.28643303]
+ ||$wsqaoa_euc_shape2_paramseed-18_p-9.txt$optimal function value: 74.69906645
+optimal value: [0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.55500384 5.15339858 1.05319482 1.24236208 1.53644731 3.1149391
+ 1.50778781 2.87189716 0.82523664 1.57645949 2.15858967 2.02703581
+ 2.12178555 4.95153466 2.73017345 5.93499815 0.75558004 1.49076572]
+ ||$wsqaoa_euc_shape3_paramseed-18_p-9.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.34662897 4.16531093 0.84861647 2.31857733 1.49107113 3.08409304
+ 1.16818517 2.84879022 0.75811442 1.52428542 2.13226148 1.99248638
+ 2.09595807 4.91915459 2.70222073 5.82768792 0.6773942  1.41099947]
+ ||$wsqaoa_euc_shape2_paramseed-19_p-9.txt$optimal function value: 30.655645410000005
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[2.1272537  5.93164084 2.63506145 3.21383189 1.23632281 6.26315558
+ 1.90898864 0.93150703 0.82029211 2.6365139  1.02854063 1.68330833
+ 0.33809373 2.04520617 0.97718823 3.57668868 0.63343922 0.44478852]
+ ||$wsqaoa_euc_shape3_paramseed-19_p-9.txt$optimal function value: 72.23320691999999
+optimal value: [0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 0. 1. 0.]
+status: SUCCESS
+ ||[3.13681727 4.93220041 1.71131773 4.30208268 1.2241688  6.31304474
+ 0.9004341  0.93460407 0.80400201 1.64978389 0.9824794  1.69304205
+ 0.29142329 2.20771447 1.17266911 3.5772171  0.64247447 0.43622892]
+ ||$wsqaoa_euc_shape2_paramseed-20_p-9.txt$optimal function value: 58.02846945999997
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0.]
+status: SUCCESS
+ ||[3.845187   5.31139928 2.40807981 5.68424311 0.81638076 3.99488196
+ 2.84298022 5.49804558 1.81548897 1.06183203 1.27300245 6.24448798
+ 0.32445979 2.00529851 2.98471777 2.82370663 0.65552991 1.99126129]
+ ||$wsqaoa_euc_shape3_paramseed-20_p-9.txt$optimal function value: 32.53962615999998
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[3.88427113 4.5045393  2.25193664 6.05721644 1.00412854 5.00007464
+ 2.78686546 5.44103023 1.789361   1.03640175 1.2428881  6.22641377
+ 0.31204162 1.96846241 2.96235284 2.79319795 0.61103272 3.013744  ]
+ ||

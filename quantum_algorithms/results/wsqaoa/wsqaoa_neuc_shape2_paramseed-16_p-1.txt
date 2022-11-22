@@ -1,0 +1,6 @@
+optimal function value: 84.11755562999997
+optimal value: [0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0.]
+status: SUCCESS
+ ||[1.14240601 3.02593944]
+ ||second
+ ||

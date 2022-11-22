@@ -1,0 +1,1763 @@
+$hadfield_neuc_shape3_paramseed-1_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57836772 5.3245832 ]
+ ||$hadfield_euc_shape2_paramseed-1_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56274272 5.3245832 ]
+ ||$hadfield_euc_shape3_paramseed-1_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57836772 5.3245832 ]
+ ||$hadfield_neuc_shape3_paramseed-2_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14408843 5.95491429]
+ ||$hadfield_euc_shape3_paramseed-2_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14409523 5.95539721]
+ ||$hadfield_neuc_shape3_paramseed-3_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14247585 3.26599426]
+ ||$hadfield_euc_shape2_paramseed-3_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.15202596 3.42265169]
+ ||$hadfield_euc_shape3_paramseed-3_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.15049448 3.42480446]
+ ||$hadfield_neuc_shape2_paramseed-4_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14780709 0.6471239 ]
+ ||$hadfield_neuc_shape3_paramseed-4_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14014744 0.64145025]
+ ||$hadfield_euc_shape2_paramseed-4_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14781035 0.64687335]
+ ||$hadfield_euc_shape3_paramseed-4_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14009502 0.64209122]
+ ||$hadfield_neuc_shape3_paramseed-5_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14440339 4.66078511]
+ ||$hadfield_euc_shape2_paramseed-5_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14440339 4.66078511]
+ ||$hadfield_euc_shape3_paramseed-5_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14440339 4.66078511]
+ ||$hadfield_neuc_shape3_paramseed-6_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14078888 5.16448956]
+ ||$hadfield_euc_shape2_paramseed-6_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14078888 5.16448956]
+ ||$hadfield_euc_shape3_paramseed-6_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14078888 5.16448956]
+ ||$hadfield_neuc_shape3_paramseed-7_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14235063 0.94781331]
+ ||$hadfield_euc_shape2_paramseed-7_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14235063 0.94781331]
+ ||$hadfield_euc_shape3_paramseed-7_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14235063 0.94781331]
+ ||$hadfield_neuc_shape3_paramseed-8_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57160714 6.04560097]
+ ||$hadfield_euc_shape2_paramseed-8_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57161043 6.04552895]
+ ||$hadfield_euc_shape3_paramseed-8_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57159246 6.04627803]
+ ||$hadfield_neuc_shape2_paramseed-9_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57209348 2.34781953]
+ ||$hadfield_neuc_shape3_paramseed-9_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56943623 2.36528727]
+ ||$hadfield_euc_shape2_paramseed-9_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57176801 2.34558804]
+ ||$hadfield_euc_shape3_paramseed-9_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.5721068  2.34786373]
+ ||$hadfield_neuc_shape2_paramseed-10_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13886419 2.69478941]
+ ||$hadfield_neuc_shape3_paramseed-10_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13886419 2.69478941]
+ ||$hadfield_euc_shape2_paramseed-10_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13886419 2.69478941]
+ ||$hadfield_euc_shape3_paramseed-10_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13886419 2.69478941]
+ ||$hadfield_neuc_shape3_paramseed-11_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57368326 3.50708243]
+ ||$hadfield_euc_shape1_paramseed-11_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.5741934 3.527707 ]
+ ||$hadfield_euc_shape2_paramseed-11_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57744228 3.51715363]
+ ||$hadfield_euc_shape3_paramseed-11_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57372647 3.50705667]
+ ||$hadfield_neuc_shape2_paramseed-12_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56903276 4.13102157]
+ ||$hadfield_neuc_shape3_paramseed-12_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56903276 4.13102157]
+ ||$hadfield_euc_shape1_paramseed-12_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56903276 4.13102157]
+ ||$hadfield_euc_shape2_paramseed-12_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56903276 4.13102157]
+ ||$hadfield_euc_shape3_paramseed-12_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57829736 4.11674971]
+ ||$hadfield_neuc_shape3_paramseed-13_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14107714 4.41633454]
+ ||$hadfield_euc_shape1_paramseed-13_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13332501 4.42953769]
+ ||$hadfield_euc_shape2_paramseed-13_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14182798 4.30674713]
+ ||$hadfield_euc_shape3_paramseed-13_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14463392 4.42816075]
+ ||$hadfield_neuc_shape2_paramseed-14_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-3.25750763e-04  4.41447504e+00]
+ ||$hadfield_neuc_shape3_paramseed-14_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.70392982e-03 4.39080896e+00]
+ ||$hadfield_euc_shape1_paramseed-14_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-3.25750763e-04  4.41447504e+00]
+ ||$hadfield_euc_shape2_paramseed-14_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-3.25750763e-04  4.41447504e+00]
+ ||$hadfield_euc_shape3_paramseed-14_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-3.25750763e-04  4.41447504e+00]
+ ||$hadfield_neuc_shape3_paramseed-15_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14182131 0.0719961 ]
+ ||$hadfield_euc_shape1_paramseed-15_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14178056 0.07273045]
+ ||$hadfield_euc_shape2_paramseed-15_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14177695 0.0735964 ]
+ ||$hadfield_euc_shape3_paramseed-15_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14178047 0.07273341]
+ ||$hadfield_neuc_shape2_paramseed-16_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.01075729 3.01894906]
+ ||$hadfield_neuc_shape3_paramseed-16_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.01075729 3.01894906]
+ ||$hadfield_euc_shape1_paramseed-16_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.01075729 3.01894906]
+ ||$hadfield_euc_shape2_paramseed-16_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.87211357e-04 3.00171011e+00]
+ ||$hadfield_euc_shape3_paramseed-16_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.01075729 3.01894906]
+ ||$hadfield_neuc_shape3_paramseed-17_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57736082 5.06858764]
+ ||$hadfield_euc_shape1_paramseed-17_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57736082 5.06858764]
+ ||$hadfield_euc_shape2_paramseed-17_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57736082 5.06858764]
+ ||$hadfield_euc_shape3_paramseed-17_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57736082 5.06858764]
+ ||$hadfield_neuc_shape2_paramseed-18_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56946036 4.1558907 ]
+ ||$hadfield_neuc_shape3_paramseed-18_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56946036 4.1558907 ]
+ ||$hadfield_euc_shape1_paramseed-18_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56946036 4.1558907 ]
+ ||$hadfield_euc_shape2_paramseed-18_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56946036 4.1558907 ]
+ ||$hadfield_euc_shape3_paramseed-18_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56946036 4.1558907 ]
+ ||$hadfield_neuc_shape3_paramseed-19_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14287852 4.9317435 ]
+ ||$hadfield_euc_shape1_paramseed-19_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14287852 4.9317435 ]
+ ||$hadfield_euc_shape2_paramseed-19_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14287852 4.9317435 ]
+ ||$hadfield_euc_shape3_paramseed-19_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14287852 4.9317435 ]
+ ||$hadfield_neuc_shape2_paramseed-20_sp-0123_p-1.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14202595 4.31186204]
+ ||$hadfield_neuc_shape3_paramseed-20_sp-0123_p-1.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14202595 4.31186204]
+ ||$hadfield_euc_shape1_paramseed-20_sp-0123_p-1.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14202595 4.31186204]
+ ||$hadfield_euc_shape2_paramseed-20_sp-0123_p-1.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14202595 4.31186204]
+ ||$hadfield_euc_shape3_paramseed-20_sp-0123_p-1.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14202595 4.31186204]
+ ||$hadfield_neuc_shape3_paramseed-1_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56570205 6.28267433 2.39946873 2.53910825]
+ ||$hadfield_euc_shape2_paramseed-1_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56867327 6.29290928 2.40946441 2.72440518]
+ ||$hadfield_euc_shape3_paramseed-1_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.58012898 6.26885069 2.39947268 1.44378595]
+ ||$hadfield_neuc_shape3_paramseed-2_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.13993837  6.28483791 -0.08298645  1.77072529]
+ ||$hadfield_euc_shape3_paramseed-2_sp-0123_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.97997321 6.43012897 0.20502163 0.53144903]
+ ||$hadfield_neuc_shape3_paramseed-3_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57871273 3.14016849 1.03913718 3.69483435]
+ ||$hadfield_euc_shape2_paramseed-3_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13447542 3.1452752  1.16224843 4.72089121]
+ ||$hadfield_euc_shape3_paramseed-3_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56802148 3.13440465 1.04652873 3.67638702]
+ ||$hadfield_neuc_shape2_paramseed-4_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.5703811  1.57708324 1.24425367 1.0426357 ]
+ ||$hadfield_neuc_shape3_paramseed-4_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56752571 1.57169052 1.2835245  1.12290833]
+ ||$hadfield_euc_shape2_paramseed-4_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.49660506 1.48623393 1.24435065 0.78707872]
+ ||$hadfield_euc_shape3_paramseed-4_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.58010506 1.56269749 1.24425367 1.05773714]
+ ||$hadfield_neuc_shape3_paramseed-5_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14028357 4.71611914 2.52331015 5.95901034]
+ ||$hadfield_euc_shape2_paramseed-5_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13864636 4.71802846 2.4525986  6.88431285]
+ ||$hadfield_euc_shape3_paramseed-5_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13950189 4.70659891 2.48129361 6.88103704]
+ ||$hadfield_neuc_shape3_paramseed-6_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.1393915  6.28407444 1.52363514 1.66029413]
+ ||$hadfield_euc_shape2_paramseed-6_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14996877 6.27715477 1.58631237 2.83629573]
+ ||$hadfield_euc_shape3_paramseed-6_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.15818733 6.2907906  1.52378122 2.70088525]
+ ||$hadfield_neuc_shape3_paramseed-7_sp-0123_p-2.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.98207115 0.9673573  2.04495057 1.46945688]
+ ||$hadfield_euc_shape2_paramseed-7_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.82224785e-03 -3.85253819e-04  1.96017680e+00  1.52705190e+00]
+ ||$hadfield_euc_shape3_paramseed-7_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.07634612 1.07127458 2.04488808 0.37076737]
+ ||$hadfield_neuc_shape3_paramseed-8_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57633112 6.2853409  0.37802849 4.25477408]
+ ||$hadfield_euc_shape2_paramseed-8_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56632729 6.28505378 0.42803351 4.48339349]
+ ||$hadfield_euc_shape3_paramseed-8_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57135469 6.28228329 0.39688022 5.3007716 ]
+ ||$hadfield_neuc_shape2_paramseed-9_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14096399 3.14219317 0.51180328 5.45009889]
+ ||$hadfield_neuc_shape3_paramseed-9_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.1411647  3.13970845 0.49908482 5.19599749]
+ ||$hadfield_euc_shape2_paramseed-9_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14248352 3.13378119 0.33629468 5.51584994]
+ ||$hadfield_euc_shape3_paramseed-9_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13902439 3.13792696 0.33885572 5.09669836]
+ ||$hadfield_neuc_shape2_paramseed-10_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13772395 3.13506889 1.78415833 1.23218299]
+ ||$hadfield_neuc_shape3_paramseed-10_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.16931917 3.17167329 1.84842387 1.16803166]
+ ||$hadfield_euc_shape2_paramseed-10_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14429649 3.14290428 1.57910701 2.28521415]
+ ||$hadfield_euc_shape3_paramseed-10_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13228496 3.15044909 1.81788365 2.43780623]
+ ||$hadfield_neuc_shape3_paramseed-11_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56768014 3.13984409 2.69605728 3.27893668]
+ ||$hadfield_euc_shape1_paramseed-11_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57534383 4.71346332 2.89698401 2.868786  ]
+ ||$hadfield_euc_shape2_paramseed-11_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57675303 3.14344378 2.87368595 2.69436196]
+ ||$hadfield_euc_shape3_paramseed-11_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57240984 3.15136179 2.86975454 4.18251703]
+ ||$hadfield_neuc_shape2_paramseed-12_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13142607 6.2764868  2.15848001 1.28934387]
+ ||$hadfield_neuc_shape3_paramseed-12_sp-0123_p-2.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.01159406 5.19477474 2.02620086 2.06181913]
+ ||$hadfield_euc_shape1_paramseed-12_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.1358822  6.2928418  2.12976528 0.45743613]
+ ||$hadfield_euc_shape2_paramseed-12_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14017429 6.28273417 2.09003219 1.8599767 ]
+ ||$hadfield_euc_shape3_paramseed-12_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.13592967  3.13945084  2.09359024 -2.02049974]
+ ||$hadfield_neuc_shape3_paramseed-13_sp-0123_p-2.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.85932868 5.29762741 2.15497685 5.34792975]
+ ||$hadfield_euc_shape1_paramseed-13_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.5691973  4.70662198 2.15953024 6.74695985]
+ ||$hadfield_euc_shape2_paramseed-13_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.30204859e-03 6.27914339e+00 2.26281293e+00 6.58994667e+00]
+ ||$hadfield_euc_shape3_paramseed-13_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.5711537  4.71705308 2.14910673 6.54793844]
+ ||$hadfield_neuc_shape2_paramseed-14_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56998297 3.13928204 2.46832739 4.47685986]
+ ||$hadfield_neuc_shape3_paramseed-14_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.60120352 4.74870147 2.06190375 6.9057084 ]
+ ||$hadfield_euc_shape1_paramseed-14_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.55406642 4.73179035 1.89172145 6.85935932]
+ ||$hadfield_euc_shape2_paramseed-14_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56953519 3.13537022 2.04842659 5.34767625]
+ ||$hadfield_euc_shape3_paramseed-14_sp-0123_p-2.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.11167824 3.03247579 1.5415675  5.94470697]
+ ||$hadfield_neuc_shape3_paramseed-15_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.15320202 -0.01450855  2.31218587  2.04524055]
+ ||$hadfield_euc_shape1_paramseed-15_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.21577776 -0.07258268  2.31721993  0.87371902]
+ ||$hadfield_euc_shape2_paramseed-15_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.14057137e+00 -8.63253989e-04  2.29825386e+00  1.99253410e+00]
+ ||$hadfield_euc_shape3_paramseed-15_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14348754e+00 9.48971542e-04 2.27756716e+00 8.25897702e-01]
+ ||$hadfield_neuc_shape2_paramseed-16_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.53964072e-03 4.71440624e+00 1.29953060e+00 1.90484849e+00]
+ ||$hadfield_neuc_shape3_paramseed-16_sp-0123_p-2.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.11831585 4.03818264 1.29757166 3.79683392]
+ ||$hadfield_euc_shape1_paramseed-16_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-1.08458466e-03  4.70978783e+00  1.28164781e+00  4.01030484e+00]
+ ||$hadfield_euc_shape2_paramseed-16_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-2.20522004e-03  4.70734222e+00  1.34620029e+00  3.34052809e+00]
+ ||$hadfield_euc_shape3_paramseed-16_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.76470417e-03 4.71072964e+00 1.30989531e+00 2.62122478e+00]
+ ||$hadfield_neuc_shape3_paramseed-17_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57438337 6.28895826 3.01696529 2.82019481]
+ ||$hadfield_euc_shape1_paramseed-17_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57852276 6.28461285 2.9856632  1.67212894]
+ ||$hadfield_euc_shape2_paramseed-17_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57039783 6.2817654  2.97873086 1.81371227]
+ ||$hadfield_euc_shape3_paramseed-17_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57274714 6.29816025 3.01748333 2.81987545]
+ ||$hadfield_neuc_shape2_paramseed-18_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-3.62961998e-03  6.29434350e+00  8.57838655e-01  2.52741990e+00]
+ ||$hadfield_neuc_shape3_paramseed-18_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.01037369 6.28499909 1.05105031 2.82559526]
+ ||$hadfield_euc_shape1_paramseed-18_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-4.82931100e-03  6.27490823e+00  1.10503284e+00  8.94264035e-01]
+ ||$hadfield_euc_shape2_paramseed-18_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.00712852 6.28472993 1.48486536 3.08057502]
+ ||$hadfield_euc_shape3_paramseed-18_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-1.57112465  3.1413372   0.11466247 -0.25317216]
+ ||$hadfield_neuc_shape3_paramseed-19_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14209336 6.28103281 1.72173197 3.04374982]
+ ||$hadfield_euc_shape1_paramseed-19_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13851322 6.27825646 1.70390053 4.41675921]
+ ||$hadfield_euc_shape2_paramseed-19_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13040867 6.28249456 1.67386653 3.08912912]
+ ||$hadfield_euc_shape3_paramseed-19_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14954224 6.29363328 1.6383414  4.0840738 ]
+ ||$hadfield_neuc_shape2_paramseed-20_sp-0123_p-2.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.98718552 4.16487577 2.40814219 6.53605507]
+ ||$hadfield_neuc_shape3_paramseed-20_sp-0123_p-2.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[4.71874193 3.1389857  2.1993386  5.85694666]
+ ||$hadfield_euc_shape1_paramseed-20_sp-0123_p-2.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[4.71673851 6.27824208 2.99943589 7.84888731]
+ ||$hadfield_euc_shape2_paramseed-20_sp-0123_p-2.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.19837971 3.08065528 2.40059151 5.43180288]
+ ||$hadfield_euc_shape3_paramseed-20_sp-0123_p-2.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[4.71312592 3.15269313 2.01279939 5.01517693]
+ ||$hadfield_neuc_shape3_paramseed-1_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.25798544 5.07392834 2.22852084 1.47006281 1.20317327 2.84844888]
+ ||$hadfield_euc_shape2_paramseed-1_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-0.01933754  6.30702749  3.14446244  1.57003627  2.80786461  3.79340712]
+ ||$hadfield_euc_shape3_paramseed-1_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57180331 6.28464658 3.14052832 1.55721711 2.30050835 2.70140261]
+ ||$hadfield_neuc_shape3_paramseed-2_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.13760653e+00  6.28563621e+00 -3.32442098e-03  5.33266473e-01
+  3.63091613e+00  5.59803319e+00]
+ ||$hadfield_euc_shape3_paramseed-2_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.13931557  6.29352547 -0.00847169  0.53326647  2.31517955  5.60134799]
+ ||$hadfield_neuc_shape3_paramseed-3_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.09271665 4.52159661 1.1154074  3.79433973 3.01292761 0.08959324]
+ ||$hadfield_euc_shape2_paramseed-3_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.46668373 4.04754883 1.92291454 3.89113498 2.60561334 0.5034539 ]
+ ||$hadfield_euc_shape3_paramseed-3_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.99078515 3.39332186 1.14321478 3.79332506 1.843569   0.38882578]
+ ||$hadfield_neuc_shape2_paramseed-4_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.7136308  0.56639773 1.25016809 0.9737697  1.19742408 2.55967914]
+ ||$hadfield_neuc_shape3_paramseed-4_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 6.93731197e-04 -1.69886926e-03  3.59088542e-06  1.56202261e+00
+ -2.95360138e-01  2.22647614e+00]
+ ||$hadfield_euc_shape2_paramseed-4_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 0.01535335  0.00272187  0.00794558  1.04453    -1.30001188  2.03801136]
+ ||$hadfield_euc_shape3_paramseed-4_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.36977966 1.47044356 1.52760611 0.97371949 1.25693437 2.52555435]
+ ||$hadfield_neuc_shape3_paramseed-5_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14378024 4.71530663 3.15026037 5.92158978 3.26265011 5.7965004 ]
+ ||$hadfield_euc_shape2_paramseed-5_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.01813656 4.67450365 3.44782187 5.92055362 3.45234179 5.7946501 ]
+ ||$hadfield_euc_shape3_paramseed-5_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.04709077 4.71303615 3.21485156 5.93583418 3.33833711 5.81247713]
+ ||$hadfield_neuc_shape3_paramseed-6_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.25666964  6.37984384  1.56883753  1.69741527 -0.05672191  5.20308253]
+ ||$hadfield_euc_shape2_paramseed-6_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.38877516  6.0682876   1.57472927  1.64587878 -0.01598935  4.15764438]
+ ||$hadfield_euc_shape3_paramseed-6_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.38682402 6.08808058 1.5663027  1.64393009 0.01410202 5.31320033]
+ ||$hadfield_neuc_shape3_paramseed-7_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.02518863 0.94756319 3.03051937 0.46067994 2.6735305  3.32726634]
+ ||$hadfield_euc_shape2_paramseed-7_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.98766478 1.07674913 3.32094459 0.45514313 2.65567063 3.20238291]
+ ||$hadfield_euc_shape3_paramseed-7_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56893201 0.00557146 3.13435414 0.24286979 1.43307993 3.32958947]
+ ||$hadfield_neuc_shape3_paramseed-8_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56966759 6.28096596 1.56490308 4.42849533 0.20224069 1.60182886]
+ ||$hadfield_euc_shape2_paramseed-8_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57388646 6.269167   1.57364523 4.4145575  0.44926452 2.51090239]
+ ||$hadfield_euc_shape3_paramseed-8_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57214558 6.27775837 0.01142951 4.57822072 1.39864842 1.41212016]
+ ||$hadfield_neuc_shape2_paramseed-9_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56899688 3.21015658 0.07511774 5.40677135 0.99603627 3.10364169]
+ ||$hadfield_neuc_shape3_paramseed-9_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57537884 3.15321755 0.01523593 5.51822227 1.02450491 3.05968936]
+ ||$hadfield_euc_shape2_paramseed-9_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.01078158 3.008467   0.05842059 5.61301836 0.07227067 3.08024541]
+ ||$hadfield_euc_shape3_paramseed-9_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.06551084 3.07515935 1.56691672 5.56446542 0.07164756 2.96910821]
+ ||$hadfield_neuc_shape2_paramseed-10_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13166754 3.13001318 3.15174915 1.25498722 3.61251824 6.50586424]
+ ||$hadfield_neuc_shape3_paramseed-10_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.09529765 3.16847774 3.09238548 1.29495338 2.64994195 6.03005011]
+ ||$hadfield_euc_shape2_paramseed-10_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13791531 3.15258294 3.12781931 1.29495338 3.56661078 6.44249749]
+ ||$hadfield_euc_shape3_paramseed-10_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.137979   3.13663509 3.13716201 1.03157201 3.61969497 5.13519552]
+ ||$hadfield_neuc_shape3_paramseed-11_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56820535 3.14074613 3.13649181 2.9534648  2.50481103 3.77091002]
+ ||$hadfield_euc_shape1_paramseed-11_sp-0123_p-3.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57890282 4.72525778 3.14167956 2.92576568 1.50964718 4.63088637]
+ ||$hadfield_euc_shape2_paramseed-11_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57317854 3.22120473 3.06381394 2.98530788 1.42772509 3.76994379]
+ ||$hadfield_euc_shape3_paramseed-11_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57248007 3.15485837 3.13174371 2.92423942 2.65658727 5.05515482]
+ ||$hadfield_neuc_shape2_paramseed-12_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.537466   4.08504217 2.16684607 1.00960306 0.42460697 3.26392927]
+ ||$hadfield_neuc_shape3_paramseed-12_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.54319836 5.18339451 2.1140228  0.88753611 0.05983684 3.10303752]
+ ||$hadfield_euc_shape1_paramseed-12_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.49107342 5.25328858 2.11846728 0.89597594 0.03269764 2.3600959 ]
+ ||$hadfield_euc_shape2_paramseed-12_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.51497402 5.15299389 2.05523292 0.90142071 0.05983237 2.40197198]
+ ||$hadfield_euc_shape3_paramseed-12_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.66703678 5.17746548 2.05481439 0.89598444 0.51604971 3.36382877]
+ ||$hadfield_neuc_shape3_paramseed-13_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.88978783 4.02688303 3.0846409  5.33653649 0.60499015 2.67427325]
+ ||$hadfield_euc_shape1_paramseed-13_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.65586313 4.26805252 2.06624388 5.33653649 0.55175763 1.43503114]
+ ||$hadfield_euc_shape2_paramseed-13_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-1.09531971  4.24613758  1.45414281  5.40418785  2.13876814  1.40042828]
+ ||$hadfield_euc_shape3_paramseed-13_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56979482 4.71487906 3.1319625  5.60371077 1.35242295 2.35115298]
+ ||$hadfield_neuc_shape2_paramseed-14_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.32764063 4.34001362 2.04276882 5.90840832 0.73328383 1.5858739 ]
+ ||$hadfield_neuc_shape3_paramseed-14_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.12234968 5.42380828 3.21048765 5.91154704 0.94608918 1.29710204]
+ ||$hadfield_euc_shape1_paramseed-14_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.89757727 4.1397667  2.74816864 5.90840832 1.13913278 2.62462119]
+ ||$hadfield_euc_shape2_paramseed-14_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.11695633 5.18775516 2.28770537 5.90840832 1.21880795 2.76064042]
+ ||$hadfield_euc_shape3_paramseed-14_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57270663 3.13455605 3.1341255  5.90840832 1.81177104 2.28152608]
+ ||$hadfield_neuc_shape3_paramseed-15_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[4.05732481 0.03891499 2.24795881 0.97825067 3.36183046 0.0855811 ]
+ ||$hadfield_euc_shape1_paramseed-15_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[4.24629766 0.11590978 2.30453871 0.99282872 4.09853556 0.11284567]
+ ||$hadfield_euc_shape2_paramseed-15_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 4.71245877  0.01598348  1.56164216  0.99215595  2.7545575  -0.2746088 ]
+ ||$hadfield_euc_shape3_paramseed-15_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 4.72012628e+00 -2.64020271e-03  1.57195026e+00  7.58404780e-01
+  3.10634759e+00  1.32293499e+00]
+ ||$hadfield_neuc_shape2_paramseed-16_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.12849396 3.02555187 2.30317286 2.8067712  1.28448174 4.13698961]
+ ||$hadfield_neuc_shape3_paramseed-16_sp-0123_p-3.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.0105424  4.15022457 1.50391981 2.80707118 1.46937454 4.93961049]
+ ||$hadfield_euc_shape1_paramseed-16_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.05600689 3.1023558  2.3163149  2.80707118 1.49821813 4.05020334]
+ ||$hadfield_euc_shape2_paramseed-16_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.12146114 3.04520913 2.36548981 2.80707118 1.53011924 4.12699158]
+ ||$hadfield_euc_shape3_paramseed-16_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.12177125 4.06013475 1.3339712  2.80707118 2.3791409  4.36219614]
+ ||$hadfield_neuc_shape3_paramseed-17_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57522579 6.27209299 3.12490771 1.84804512 3.70322231 5.41995007]
+ ||$hadfield_euc_shape1_paramseed-17_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.1376298  6.24644339 3.10742812 1.80308287 3.53577664 5.47258101]
+ ||$hadfield_euc_shape2_paramseed-17_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56737081 6.28272309 3.14279474 1.85614938 2.42265071 4.41836736]
+ ||$hadfield_euc_shape3_paramseed-17_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56753479 6.27246687 3.1308414  1.80363987 3.47747682 4.44418778]
+ ||$hadfield_neuc_shape2_paramseed-18_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57067888 5.15353075 1.04832569 1.24369121 2.66305092 3.10362498]
+ ||$hadfield_neuc_shape3_paramseed-18_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.62847824 4.53139376 1.35109862 1.24369121 2.79010796 3.08717229]
+ ||$hadfield_euc_shape1_paramseed-18_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.2761957  4.20399828 1.00054668 1.24424812 2.56035698 4.00520632]
+ ||$hadfield_euc_shape2_paramseed-18_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.08473977 5.26647811 0.29468707 1.24369896 1.26738143 2.67836398]
+ ||$hadfield_euc_shape3_paramseed-18_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57413958 5.28292856 1.06802048 1.24369121 2.66198873 3.12108302]
+ ||$hadfield_neuc_shape3_paramseed-19_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.17281605 6.26310341 1.5780286  3.19166371 2.25463287 6.1394423 ]
+ ||$hadfield_euc_shape1_paramseed-19_sp-0123_p-3.txt$optimal function value: 48.697738310000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14961566 6.28871724 1.57154252 3.19758482 2.11510893 6.09064429]
+ ||$hadfield_euc_shape2_paramseed-19_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.15761129 6.27044096 1.57699989 3.2166818  1.15100785 6.24513609]
+ ||$hadfield_euc_shape3_paramseed-19_sp-0123_p-3.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.156222   6.28356064 1.57672278 3.21257724 1.32447803 7.25835417]
+ ||$hadfield_neuc_shape2_paramseed-20_sp-0123_p-3.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.76652054 4.20183066 2.26202572 5.68284077 0.69064182 4.14523362]
+ ||$hadfield_neuc_shape3_paramseed-20_sp-0123_p-3.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[4.71267143 3.15259262 1.57891714 5.68387145 0.1408482  5.37252102]
+ ||$hadfield_euc_shape1_paramseed-20_sp-0123_p-3.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.85134346 4.32282418 2.42150966 5.68378713 0.83033084 3.99580299]
+ ||$hadfield_euc_shape2_paramseed-20_sp-0123_p-3.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.7988801  4.28896024 2.36828429 5.68387145 0.81538305 4.99744283]
+ ||$hadfield_euc_shape3_paramseed-20_sp-0123_p-3.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.07195056 4.71412382 3.20446765 5.66956204 1.10484895 4.40491455]
+ ||$hadfield_neuc_shape3_paramseed-1_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57613799 6.27615519 3.14843621 1.5731366  1.55472471 2.78973053
+ 1.91938183 4.91569618]
+ ||$hadfield_euc_shape2_paramseed-1_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-0.05081843  6.059018    3.05921997  1.63383756  1.55969909  3.8400851
+  2.04318671  4.95123054]
+ ||$hadfield_euc_shape3_paramseed-1_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-0.08948657  6.40371287  2.9971274   1.57443428  1.54945503  3.78127792
+  2.08859015  5.95159414]
+ ||$hadfield_neuc_shape3_paramseed-2_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.00539236 6.01977734 0.18635511 1.54907101 2.62479714 5.69043139
+ 3.13342812 2.88729256]
+ ||$hadfield_euc_shape3_paramseed-2_sp-0123_p-4.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.03986734 6.17690651 0.10075546 1.57925402 2.63529849 4.6153766
+ 3.11621246 1.92823677]
+ ||$hadfield_neuc_shape3_paramseed-3_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.55424713 4.71813562 1.55397682 4.68372843 1.72066935 1.5376728
+ 0.16557931 5.22942825]
+ ||$hadfield_euc_shape2_paramseed-3_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[7.44390945e-01 4.35318490e+00 2.15832345e+00 3.80928807e+00
+ 1.99302225e+00 1.39467397e+00 3.13728193e-03 6.25813760e+00]
+ ||$hadfield_euc_shape3_paramseed-3_sp-0123_p-4.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.56568391  3.14142923  1.55858865  3.15554426  2.02726759  1.3387057
+ -0.22921348  5.33078321]
+ ||$hadfield_neuc_shape2_paramseed-4_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.74266289 1.65276899 2.25582888 1.00095824 0.20896334 3.52343726
+ 2.88404256 5.02072054]
+ ||$hadfield_neuc_shape3_paramseed-4_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.4939351  0.48364321 1.97408652 2.01522853 0.21261209 2.95330238
+ 2.58815976 6.12573002]
+ ||$hadfield_euc_shape2_paramseed-4_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.73714123 0.6084726  1.26704483 0.95093828 0.20744059 2.51273752
+ 2.87514354 5.14115974]
+ ||$hadfield_euc_shape3_paramseed-4_sp-0123_p-4.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.78714495 1.70181792 1.27307193 1.95218769 0.18193263 2.55624316
+ 3.91389024 4.88439055]
+ ||$hadfield_neuc_shape3_paramseed-5_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.94149297 4.67665692 3.48747894 5.9304785  2.32182644 5.7901388
+ 1.11796077 2.92858119]
+ ||$hadfield_euc_shape2_paramseed-5_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.17097621 4.71147613 3.17164867 6.27934468 2.28016262 6.80657444
+ 1.10056401 4.22998989]
+ ||$hadfield_euc_shape3_paramseed-5_sp-0123_p-4.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.13522112  4.71507582  3.14809566  6.27719546  2.24711986  5.76668172
+ -0.03826295  3.83163765]
+ ||$hadfield_neuc_shape3_paramseed-6_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.07088351 6.21590549 1.55399647 1.58626742 0.0420589  3.90580438
+ 1.40931092 4.77081018]
+ ||$hadfield_euc_shape2_paramseed-6_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.07464619  5.97969709  1.62302188  2.85666753 -0.04061292  4.21365567
+  1.56721218  4.4320028 ]
+ ||$hadfield_euc_shape3_paramseed-6_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.23835972e+00 6.41600583e+00 1.57059417e+00 3.07551014e+00
+ 1.16213228e-03 3.82227359e+00 1.48457076e+00 4.54504053e+00]
+ ||$hadfield_neuc_shape3_paramseed-7_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.38276    0.60800299 3.04609732 1.45810771 1.68248022 3.29815675
+ 1.10892126 2.94997708]
+ ||$hadfield_euc_shape2_paramseed-7_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.12951816 0.94074777 2.96183105 1.47547168 1.67847664 3.16593256
+ 0.22311998 3.19748677]
+ ||$hadfield_euc_shape3_paramseed-7_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.07983717 1.08265907 2.92696641 0.43795971 1.61405867 2.49570067
+ 0.0729186  4.08902527]
+ ||$hadfield_neuc_shape3_paramseed-8_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57329324 6.10317628 0.20417339 4.71823443 0.06551248 1.59211679
+ 3.01299671 1.24265482]
+ ||$hadfield_euc_shape2_paramseed-8_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57147812 6.27785437 0.00704559 4.71601559 0.30327854 2.86342624
+ 4.19822217 2.26170648]
+ ||$hadfield_euc_shape3_paramseed-8_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.65980662  6.18806745 -0.03697007  4.62441329  0.26761741  1.55055208
+  3.15310459  2.3117557 ]
+ ||$hadfield_neuc_shape2_paramseed-9_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.55682169 3.08808463 0.01444776 6.22837063 0.13949092 4.16253879
+ 3.56807336 1.52095093]
+ ||$hadfield_neuc_shape3_paramseed-9_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.62843334  1.51952778  0.03201273  4.65068471  0.0296516   3.14088481
+  4.01464669 -0.02493307]
+ ||$hadfield_euc_shape2_paramseed-9_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.66209365e+00  2.11905082e+00  4.83076919e-02  5.20427465e+00
+ -1.86127495e-03  2.67982690e+00  2.27735710e+00  2.55973152e-01]
+ ||$hadfield_euc_shape3_paramseed-9_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.87699805 3.04645399 0.09277114 6.47022244 0.0199497  4.15616647
+ 2.82847565 0.49950682]
+ ||$hadfield_neuc_shape2_paramseed-10_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.09756094  3.04569508  3.08773692 -0.0539845   2.69721491  5.10582157
+  1.80007727  0.93739716]
+ ||$hadfield_neuc_shape3_paramseed-10_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.11768774 3.09910137 3.08605933 1.57594907 2.59534521 6.37284379
+ 2.30735998 0.9074985 ]
+ ||$hadfield_euc_shape2_paramseed-10_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.16814636 3.07252643 3.18351104 1.57024864 2.55363495 6.25448096
+ 1.99559827 0.87579816]
+ ||$hadfield_euc_shape3_paramseed-10_sp-0123_p-4.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14889776 3.14972146 3.13549845 0.00718906 2.62866759 5.17653447
+ 1.57236065 2.10266357]
+ ||$hadfield_neuc_shape3_paramseed-11_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56458262 3.17769271 3.07742128 3.09258949 1.5954394  3.84268642
+ 1.61230303 3.06316698]
+ ||$hadfield_euc_shape1_paramseed-11_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.58843746 3.43603518 2.93601339 3.00243223 1.53345642 3.37143542
+ 0.67988352 4.24590725]
+ ||$hadfield_euc_shape2_paramseed-11_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.59561625 4.69638064 3.05380162 3.0551835  1.51828272 3.83656361
+ 1.68880403 3.22536955]
+ ||$hadfield_euc_shape3_paramseed-11_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.66961291 4.65303698 2.92564044 2.88020486 1.59543041 3.71270895
+ 0.57636209 3.34273469]
+ ||$hadfield_neuc_shape2_paramseed-12_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.46265609 4.21995079 3.01358743 1.05718868 0.21793362 2.38219711
+ 1.58176745 5.66392933]
+ ||$hadfield_neuc_shape3_paramseed-12_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.57834363 5.19432176 3.15647134 0.92667853 0.03411909 3.51598233
+ 0.79608048 5.07303942]
+ ||$hadfield_euc_shape1_paramseed-12_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.48879983 4.13080151 3.08991741 0.8993728  0.03411909 3.38350525
+ 0.86482782 5.08999699]
+ ||$hadfield_euc_shape2_paramseed-12_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.43490623 4.19646083 3.16750295 1.92371514 0.09111523 3.32691549
+ 1.89992145 6.17199674]
+ ||$hadfield_euc_shape3_paramseed-12_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.49276731 5.15596587 2.97292499 0.90059459 0.01994406 2.36286905
+ 0.92064055 5.19661499]
+ ||$hadfield_neuc_shape3_paramseed-13_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-2.14094199e-03  6.27393053e+00  1.57500243e+00  4.71094639e+00
+  5.73478279e-01  7.12388131e-01  1.70906072e+00 -6.28355673e-01]
+ ||$hadfield_euc_shape1_paramseed-13_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.81529598 4.30433597 2.14848559 5.33342599 0.58436857 2.44955194
+ 0.4625221  1.41473859]
+ ||$hadfield_euc_shape2_paramseed-13_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.26740592  4.44977781  3.29190976  4.9240786   0.5834697   1.75682739
+ -0.09116815  1.70161735]
+ ||$hadfield_euc_shape3_paramseed-13_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[-0.01050193  6.23617216  1.57158975  6.32346858  0.49627384  1.497636
+  0.56225863  2.32661018]
+ ||$hadfield_neuc_shape2_paramseed-14_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.39064536 5.17291677 1.98907943 5.91869809 0.85538061 2.60242255
+ 2.31091556 5.10815963]
+ ||$hadfield_neuc_shape3_paramseed-14_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.14778923 4.70833711 3.08686092 6.02035283 0.85010517 1.63015452
+ 3.40829747 4.03982745]
+ ||$hadfield_euc_shape1_paramseed-14_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.41038343 6.14876645 2.00878072 7.22504114 0.71191245 1.32000071
+ 2.43537031 3.49381496]
+ ||$hadfield_euc_shape2_paramseed-14_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.34948454 4.42408829 3.05999698 5.92019116 0.84374466 1.61032184
+ 2.29543438 4.14579768]
+ ||$hadfield_euc_shape3_paramseed-14_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57901267 6.05148159 2.97761566 6.08718438 0.85169469 1.86620531
+ 3.40613258 4.41198293]
+ ||$hadfield_neuc_shape3_paramseed-15_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.00022636  0.40454131  2.07037489  1.05703592  3.09793306 -0.24281999
+  2.67188491  5.17460673]
+ ||$hadfield_euc_shape1_paramseed-15_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.3658123  0.09940972 2.18163464 1.11058343 3.13273092 1.41844247
+ 2.85635508 4.11418324]
+ ||$hadfield_euc_shape2_paramseed-15_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.03671953 0.26294521 2.13876744 1.00043008 3.12733367 1.11889256
+ 2.65758258 4.2909226 ]
+ ||$hadfield_euc_shape3_paramseed-15_sp-0123_p-4.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.4253483   0.15881292  2.23378671  1.09733524  3.15663477 -0.09889746
+  2.81966366  5.60635061]
+ ||$hadfield_neuc_shape2_paramseed-16_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.05875371 4.0223502  1.47573011 2.71787264 1.28537963 4.22609166
+ 0.69362137 4.93310538]
+ ||$hadfield_neuc_shape3_paramseed-16_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.06801265 4.14863694 1.41273316 2.66920854 1.17128062 5.00348862
+ 0.70152191 4.85905181]
+ ||$hadfield_euc_shape1_paramseed-16_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.12690959 3.04446358 2.32420992 2.82112372 1.27674983 5.26193926
+ 0.80566014 5.09949346]
+ ||$hadfield_euc_shape2_paramseed-16_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.4996628  3.89542201 1.23403972 3.75683653 1.28653161 3.60738562
+ 2.15375142 3.91705351]
+ ||$hadfield_euc_shape3_paramseed-16_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57095817 4.20106561 1.19188973 2.81272097 1.24076098 4.11951009
+ 1.87295291 4.06056959]
+ ||$hadfield_neuc_shape3_paramseed-17_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.57536153 6.11936075 3.24506188 3.02002666 2.43760055 4.48908859
+ 3.01130893 0.69464393]
+ ||$hadfield_euc_shape1_paramseed-17_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.07543059 6.18715501 3.18557243 3.19432059 2.4067975  5.4648418
+ 2.11776283 1.67316109]
+ ||$hadfield_euc_shape2_paramseed-17_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.61734994 6.08534864 3.04326558 2.8312052  2.4067975  5.54637108
+ 2.08146444 0.53526691]
+ ||$hadfield_euc_shape3_paramseed-17_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.52263532 6.11333371 3.42421093 2.92522699 2.44916765 4.21798605
+ 3.12205365 0.67914974]
+ ||$hadfield_neuc_shape2_paramseed-18_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.5557428  4.02656144 1.04627849 1.24011326 1.53791665 3.10659465
+ 1.51707334 2.87491959]
+ ||$hadfield_neuc_shape3_paramseed-18_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.55690296 5.17359637 1.01570564 1.23475368 1.54151497 3.12587895
+ 1.46425276 2.77284261]
+ ||$hadfield_euc_shape1_paramseed-18_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.11420558 3.20879178 1.60068143 0.19084295 1.60883919 5.42263902
+ 1.90486684 3.89513099]
+ ||$hadfield_euc_shape2_paramseed-18_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56049678 4.68977382 1.54952782 1.5580531  1.53785779 4.63992322
+ 2.84035854 2.59331781]
+ ||$hadfield_euc_shape3_paramseed-18_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.36727729 4.45106872 0.9851104  1.18413058 1.53170391 4.31293364
+ 1.44767899 2.86444428]
+ ||$hadfield_neuc_shape3_paramseed-19_sp-0123_p-4.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.14430572 6.28652412 1.57685254 3.12794177 1.12195036 6.05479085
+ 0.86973158 0.83291746]
+ ||$hadfield_euc_shape1_paramseed-19_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.28481607 6.37476984 1.58300612 2.99088512 1.07746688 7.51845817
+ 1.90195101 0.67744688]
+ ||$hadfield_euc_shape2_paramseed-19_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.15103585 6.2501627  1.5747668  3.12068152 1.23632561 7.2696691
+ 0.84432169 0.80888195]
+ ||$hadfield_euc_shape3_paramseed-19_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.19422502 6.22854681 1.58255263 3.11611008 1.19363756 6.10385624
+ 0.93723931 0.9119587 ]
+ ||$hadfield_neuc_shape2_paramseed-20_sp-0123_p-4.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.84565737 4.3535134  2.29171961 5.68516453 0.81510157 3.9937749
+ 2.84217188 5.4797632 ]
+ ||$hadfield_neuc_shape3_paramseed-20_sp-0123_p-4.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.13649772 4.98522097 1.97931756 6.47520533 0.8170056  5.03655828
+ 2.49372128 5.50101594]
+ ||$hadfield_euc_shape1_paramseed-20_sp-0123_p-4.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.84308725 4.73856993 1.55072029 6.71598665 0.76251088 3.45840308
+ 1.6339958  4.97623747]
+ ||$hadfield_euc_shape2_paramseed-20_sp-0123_p-4.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.85406546 4.30982195 2.40653358 5.67939097 0.81584146 3.99298629
+ 2.83648847 5.4764796 ]
+ ||$hadfield_euc_shape3_paramseed-20_sp-0123_p-4.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.83548933 4.29521633 2.43290569 5.79474454 0.816272   3.99902469
+ 3.87192224 5.51717397]
+ ||$hadfield_neuc_shape3_paramseed-1_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.54438591  4.72286113  1.56299156  1.54470863  2.97065813  2.82430048
+  2.98383933  6.6778776  -0.42051109 -0.26321699]
+ ||$hadfield_euc_shape2_paramseed-1_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.4579353  5.74488416 3.10557745 1.45431304 2.91868263 2.80268205
+ 2.27316982 4.88344751 1.05185234 0.013771  ]
+ ||$hadfield_euc_shape3_paramseed-1_sp-0123_p-5.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56788473 6.28481226 3.11799084 1.57460332 1.58754028 2.81762734
+ 1.91851587 4.90714891 0.26405637 0.17163031]
+ ||$hadfield_neuc_shape3_paramseed-2_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.21219808 6.20537349 0.07725164 1.57912554 2.96919457 4.60356733
+ 3.4148337  1.69915059 2.8886231  4.81814676]
+ ||$hadfield_euc_shape3_paramseed-2_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.24344169 6.2013643  0.08578261 1.5705994  3.37905104 4.62420809
+ 3.24558098 3.01011784 1.57420621 3.87402927]
+ ||$hadfield_neuc_shape3_paramseed-3_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.755452   4.40638085 1.1590523  3.80877771 2.00215359 0.41219756
+ 1.04122606 5.25855564 0.81835487 1.4690069 ]
+ ||$hadfield_euc_shape2_paramseed-3_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.89402282  4.64910298  0.72193487  3.28106737  1.58957684  0.41188969
+ -0.40129383  4.80996899  0.71471452  1.27629459]
+ ||$hadfield_euc_shape3_paramseed-3_sp-0123_p-5.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.646509   4.54871954 1.53852747 4.78375126 3.19459729 0.40182738
+ 1.2407636  6.29189509 0.81512167 1.0681091 ]
+ ||$hadfield_neuc_shape2_paramseed-4_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.66682553 1.56453053 2.07901968 1.00950662 0.10746079 2.48078644
+ 2.82317368 5.11346831 2.47443763 1.25536924]
+ ||$hadfield_neuc_shape3_paramseed-4_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.34072292 1.68294387 2.10444739 0.96200594 0.49884421 2.52327076
+ 2.85295186 4.82141942 2.33042047 1.3919806 ]
+ ||$hadfield_euc_shape2_paramseed-4_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.62769567 1.58631299 1.03005084 0.96292041 0.21305031 2.52075994
+ 2.87941009 5.02530351 2.39201054 2.52051592]
+ ||$hadfield_euc_shape3_paramseed-4_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.7454609  0.65348411 1.25322046 0.97520453 1.20886071 2.52337975
+ 2.88432741 5.03140844 2.40302093 1.39525534]
+ ||$hadfield_neuc_shape3_paramseed-5_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.60780823  6.00003675  3.62188823  5.38969431  2.23205452  5.79570599
+ -0.12626293  2.64357935  2.35700268  3.79191559]
+ ||$hadfield_euc_shape2_paramseed-5_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.01937536 6.30145279 3.22274083 6.26297876 3.03756933 5.88014063
+ 0.15998283 3.445104   2.95542682 4.08301339]
+ ||$hadfield_euc_shape3_paramseed-5_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.81741568 5.13583714 2.57643799 6.90267181 2.40376702 5.79534654
+ 0.24914273 3.07509084 4.11982337 4.06430222]
+ ||$hadfield_neuc_shape3_paramseed-6_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.01178199  6.1879894   1.57140706  2.98121928 -0.12912599  4.09507877
+  1.20077217  4.47350953  1.42677642  4.82206021]
+ ||$hadfield_euc_shape2_paramseed-6_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.15306121  6.24584452  1.5825117   1.56293892 -0.03759666  4.09869145
+  2.78010396  4.81005357  1.12500271  5.84748351]
+ ||$hadfield_euc_shape3_paramseed-6_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.93007709  6.41237673  1.72804474  1.69475828 -0.44795648  4.16457771
+  2.4792431   4.77235523  1.15337626  5.84070162]
+ ||$hadfield_neuc_shape3_paramseed-7_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.63895254  1.48736772  3.1450137   0.17964426  1.54790651  2.27058864
+ -0.18747122  3.06119436  0.68602853  3.71434263]
+ ||$hadfield_euc_shape2_paramseed-7_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.02646265 -0.10816647  3.2591464   1.57192785  1.56491136  2.24054514
+  0.21859549  2.94472705 -0.12874695  3.71359721]
+ ||$hadfield_euc_shape3_paramseed-7_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.08055709  0.79231804  3.21215274  0.20140076  1.65938036  2.3516013
+  0.6252325   4.20602399 -0.14130553  2.79891411]
+ ||$hadfield_neuc_shape3_paramseed-8_sp-0123_p-5.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.50429426 6.29915592 0.02391283 4.77210551 0.00854657 1.5547054
+ 3.38375591 1.41406629 3.10882094 2.80466637]
+ ||$hadfield_euc_shape2_paramseed-8_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.63305612  6.2236626   1.49290938  4.6949308  -0.04168152  1.52667092
+  4.17892764  1.38896198  2.07830121  3.1811579 ]
+ ||$hadfield_euc_shape3_paramseed-8_sp-0123_p-5.txt$optimal function value: 34.11246652
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.57006209  6.27713911  1.57383083  4.7105464  -0.00781731  1.6779615
+  4.72793967  2.41097301  1.94506177  3.2516484 ]
+ ||$hadfield_neuc_shape2_paramseed-9_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.24276237 2.26042683 1.60349671 6.52947742 0.36160893 3.32725877
+ 2.78427881 0.37136703 3.07751284 3.50523931]
+ ||$hadfield_neuc_shape3_paramseed-9_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.48382058  2.39593716  0.42956947  5.53129028 -0.25441799  3.15920621
+  3.78500175  0.52414251  1.72960145  3.89081754]
+ ||$hadfield_euc_shape2_paramseed-9_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.45432728 2.33009147 0.2883965  5.42953281 0.01252493 3.15911684
+ 2.79157281 0.683625   1.89605572 5.0348158 ]
+ ||$hadfield_euc_shape3_paramseed-9_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.41866486  2.35313979  1.49694652  5.34435796 -0.03061984  3.12068466
+  3.85415714  0.48633827  1.75395539  4.98058498]
+ ||$hadfield_neuc_shape2_paramseed-10_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.51827865 4.15969797 1.55750957 1.07384909 3.06390157 5.17537252
+ 3.45121083 0.92525476 2.74103621 3.08906897]
+ ||$hadfield_neuc_shape3_paramseed-10_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.3443453  2.95976298 3.26094532 1.57667793 3.00911485 5.1495284
+ 2.36611098 2.03167834 1.44663991 3.40907251]
+ ||$hadfield_euc_shape2_paramseed-10_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.87884264 2.82732424 1.58254386 1.5867441  2.93063914 5.46591433
+ 2.50678661 1.27785185 1.64908173 3.08269632]
+ ||$hadfield_euc_shape3_paramseed-10_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.80154041 2.69602566 1.81916336 1.29495603 3.54803262 5.17761331
+ 2.06195182 1.00445556 2.63591796 3.05923763]
+ ||$hadfield_neuc_shape3_paramseed-11_sp-0123_p-5.txt$optimal function value: 51.381437919999996
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.47151509 3.23182452 3.06093405 3.06867209 1.50869817 3.69064773
+ 0.62392923 3.2620684  1.82092088 4.84229941]
+ ||$hadfield_euc_shape1_paramseed-11_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.53998256 4.67296863 3.18872156 3.04237258 1.5549513  3.61765367
+ 0.57837518 3.06879045 2.03682784 4.80542883]
+ ||$hadfield_euc_shape2_paramseed-11_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56678362 3.29654114 2.97395915 3.0638052  1.55676035 3.83933719
+ 0.46474148 3.1674818  1.90797516 5.10677065]
+ ||$hadfield_euc_shape3_paramseed-11_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.56087752 3.27554429 3.22128556 3.01973414 1.58254566 3.64647611
+ 0.56399794 4.15911508 1.940379   5.08886392]
+ ||$hadfield_neuc_shape2_paramseed-12_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.71360871 5.2252969  3.06963638 0.97668678 0.25781739 2.35587257
+ 0.87548558 4.95923192 2.2087737  4.96914752]
+ ||$hadfield_neuc_shape3_paramseed-12_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.55906398  4.65618392  2.08351414  2.14676856 -0.05400483  2.35457441
+  0.61790831  5.03353618  2.06850899  4.78250602]
+ ||$hadfield_euc_shape1_paramseed-12_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.25047949 3.98810475 1.9339464  0.67637677 1.43342518 2.35463068
+ 0.48102064 4.91431727 2.05737826 3.58210246]
+ ||$hadfield_euc_shape2_paramseed-12_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.07860079 3.10937028 1.57574127 3.0771248  0.02513942 2.47895563
+ 0.44426777 4.60448048 2.34495036 4.77561362]
+ ||$hadfield_euc_shape3_paramseed-12_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.50726807  5.13916409  3.14519183  0.99946179 -0.01125405  2.35467019
+  0.86126667  5.32058968  2.16205766  3.64629365]
+ ||$hadfield_neuc_shape3_paramseed-13_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.60355032 5.24830722 3.18767927 5.26681271 1.59535543 1.67304895
+ 0.58634439 1.5225944  2.27299489 1.90421201]
+ ||$hadfield_euc_shape1_paramseed-13_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.80794354 4.30867137 2.14851447 5.36957723 1.82543217 1.44861586
+ 0.46260566 1.41420719 3.31634092 0.82598692]
+ ||$hadfield_euc_shape2_paramseed-13_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.81583564 5.3080241  2.15026713 5.33593004 0.5896093  1.44705716
+ 0.46287073 1.41634489 3.3072851  1.8168745 ]
+ ||$hadfield_euc_shape3_paramseed-13_sp-0123_p-5.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.96482706 4.79197061 1.50683677 5.14937697 1.61639915 1.44862449
+ 1.4850748  1.60954646 3.26700465 0.81078714]
+ ||$hadfield_neuc_shape2_paramseed-14_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.32606057 5.42127    2.98814268 5.79351235 0.85542268 1.60872921
+ 2.30614661 4.13883435 0.95306207 4.29781345]
+ ||$hadfield_neuc_shape3_paramseed-14_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.43875411 4.4991219  3.13051876 5.93692552 0.68153346 1.60658352
+ 2.41897927 4.22912901 0.95391807 4.31496867]
+ ||$hadfield_euc_shape1_paramseed-14_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.59614512  6.11624427  3.42221385  6.16215257 -0.00984935  1.30102826
+  2.27285334  4.04966944  0.28072032  3.85120098]
+ ||$hadfield_euc_shape2_paramseed-14_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.50821153 5.78173546 2.0981246  6.55876261 0.9959316  1.42046735
+ 3.41017778 4.09942749 0.89807398 5.29678271]
+ ||$hadfield_euc_shape3_paramseed-14_sp-0123_p-5.txt$optimal function value: 34.11246652
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.26304713 4.39861676 2.02734254 6.05243863 2.15007598 1.60708495
+ 2.23409285 5.18513257 0.91411354 5.24465322]
+ ||$hadfield_neuc_shape3_paramseed-15_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.07532582 0.39116152 2.10249292 2.05684747 3.08603032 0.11844913
+ 2.77966756 4.78321793 3.71025751 6.03444561]
+ ||$hadfield_euc_shape1_paramseed-15_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.01396691 0.09923289 2.27070867 1.01726268 3.12233834 0.07355975
+ 2.51093166 5.50771416 3.69928484 6.01308215]
+ ||$hadfield_euc_shape2_paramseed-15_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.2658246  0.04589593 2.16052204 0.96014492 3.15139519 0.08695484
+ 2.75402602 4.32475591 3.65877828 6.26876633]
+ ||$hadfield_euc_shape3_paramseed-15_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.04632658 -0.31176443  2.22195861  2.09216456  3.70895928  0.01424285
+  2.77616485  4.57708725  3.61130653  7.2270133 ]
+ ||$hadfield_neuc_shape2_paramseed-16_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.0934223  3.01575139 2.27519093 2.78160357 1.29628132 4.10909005
+ 2.05743173 3.99491401 1.06572101 2.01640503]
+ ||$hadfield_neuc_shape3_paramseed-16_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.13672949 4.01806636 1.47079054 2.61262404 1.28630225 4.13255032
+ 1.81408969 4.98874628 0.03111901 1.89856684]
+ ||$hadfield_euc_shape1_paramseed-16_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 0.56090306  4.24021421  0.81046066  2.56871202  0.96175308  4.17210899
+  0.52197769  5.13696025 -0.28005931  2.97804116]
+ ||$hadfield_euc_shape2_paramseed-16_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.13583032 3.01882806 1.31435846 3.80177309 1.28349132 4.13248758
+ 0.81412246 4.98963373 0.03155706 1.89968846]
+ ||$hadfield_euc_shape3_paramseed-16_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.1229085  3.0091279  1.32175757 2.82811661 2.35015877 4.14391817
+ 0.86631342 3.99101516 0.00643157 1.87064335]
+ ||$hadfield_neuc_shape3_paramseed-17_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.64000456 6.06869179 3.01801093 1.87738006 2.29464864 4.42065885
+ 2.08170774 0.67644539 0.09648728 2.41332773]
+ ||$hadfield_euc_shape1_paramseed-17_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.64605563 6.37866964 3.45973278 1.58446261 3.02490974 4.43884155
+ 2.09117689 0.66907891 0.17142394 2.54197918]
+ ||$hadfield_euc_shape2_paramseed-17_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.55829605  6.16817915  3.10806603  1.58002887  3.23482295  4.42892607
+  2.54952075  0.64628889 -0.05493446  3.45798958]
+ ||$hadfield_euc_shape3_paramseed-17_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.06693821 6.18893422 3.03397501 1.57719603 3.19972587 4.31802913
+ 3.1992899  0.57660537 0.06334455 3.85235221]
+ ||$hadfield_neuc_shape2_paramseed-18_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.06378802 4.11898834 1.05355726 1.17107297 1.59423123 3.10473511
+ 1.51676776 2.64991639 1.82320232 2.5960966 ]
+ ||$hadfield_neuc_shape3_paramseed-18_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.55510636 4.16611111 2.11565257 1.72921147 2.59797657 3.10406107
+ 1.43468798 2.84460382 1.86096892 1.53768495]
+ ||$hadfield_euc_shape1_paramseed-18_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.6720893  4.79667454 1.0875563  1.04693419 1.5614405  3.1093817
+ 1.52529402 2.85009184 1.95162641 2.64964702]
+ ||$hadfield_euc_shape2_paramseed-18_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.61032505 4.16606091 0.98828984 1.46407514 1.37865923 3.10438054
+ 2.51942481 2.90461497 1.82155496 1.58421012]
+ ||$hadfield_euc_shape3_paramseed-18_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.60805533 4.14253806 1.51923873 1.12025092 1.56504769 3.30453591
+ 3.18938276 3.83405085 0.53592624 1.66751207]
+ ||$hadfield_neuc_shape3_paramseed-19_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 2.84318146  4.71204616  3.34439628  3.30206446 -0.01463157  6.26318684
+  1.76613644  2.40660245  0.48008358  1.00477176]
+ ||$hadfield_euc_shape1_paramseed-19_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.05583753 4.72716253 1.47978459 3.16342578 1.08817485 6.26766488
+ 0.74853111 0.80677967 0.63715099 1.41158679]
+ ||$hadfield_euc_shape2_paramseed-19_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.133401   4.90037976 1.66419856 3.27518938 0.98458477 6.26327755
+ 1.90674323 0.98869895 0.80450357 1.60504864]
+ ||$hadfield_euc_shape3_paramseed-19_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.23835113 6.16432931 1.55829033 3.19231718 1.57941216 6.27698959
+ 0.86052493 0.77212018 0.83946301 1.75290333]
+ ||$hadfield_neuc_shape2_paramseed-20_sp-0123_p-5.txt$optimal function value: 65.76070403
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.7017992  5.24020023 2.47148637 5.62016633 1.01150881 3.94137281
+ 2.80437631 5.572649   1.76263101 0.71179323]
+ ||$hadfield_neuc_shape3_paramseed-20_sp-0123_p-5.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.69668307 4.1237132  3.496907   5.43405238 0.39579006 3.96501881
+ 2.46324939 4.99785733 1.46639833 0.60801338]
+ ||$hadfield_euc_shape1_paramseed-20_sp-0123_p-5.txt$optimal function value: 48.13067508999998
+optimal value: [0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[2.66765622 5.33686475 2.34154946 5.57903607 0.77349657 3.99443595
+ 2.71629708 5.44064264 1.86973483 0.92894473]
+ ||$hadfield_euc_shape2_paramseed-20_sp-0123_p-5.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.62823421 5.33782335 2.13903076 5.78973395 1.83815211 4.00177334
+ 3.89244494 5.4233306  1.69137959 2.03452772]
+ ||$hadfield_euc_shape3_paramseed-20_sp-0123_p-5.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.89151059 4.3134581  2.43442739 6.9340174  0.82141591 3.99438344
+ 2.89807218 5.47925771 1.79765519 2.07191746]
+ ||$hadfield_neuc_shape3_paramseed-1_sp-0123_p-6.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.16659533 6.14995828 3.21278735 1.5840447  1.57129203 2.84150911
+ 2.02284062 5.96577592 0.14680981 0.17814765 2.6493922  2.70384916]
+ ||$hadfield_euc_shape2_paramseed-1_sp-0123_p-6.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.1135393  6.31525064 3.38792513 1.58039317 1.56307159 2.84189693
+ 2.04702485 5.95616793 0.29165392 0.06073862 2.48646495 2.74598311]
+ ||$hadfield_euc_shape3_paramseed-1_sp-0123_p-6.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 1.58676232  5.29644967  2.26292278  1.47192012  1.5504805   2.74421669
+  2.06170542  4.75888825 -0.25359561  0.15585548  2.61832787  2.71468351]
+ ||$hadfield_neuc_shape3_paramseed-2_sp-0123_p-6.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[ 3.0301865   6.05045944 -0.06746847  1.56487891  3.24511143  4.70553066
+  2.17172009  2.94303851  2.96415179  3.77096776  2.31794235  2.27016471]
+ ||$hadfield_euc_shape3_paramseed-2_sp-0123_p-6.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[3.03836797 6.1068556  0.01668053 1.56291632 3.29743514 4.73755187
+ 2.12375855 2.89714471 3.07758982 3.75474824 3.06048826 2.00911368]
+ ||$hadfield_neuc_shape3_paramseed-3_sp-0123_p-6.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.59936919 4.56435141 2.08394552 4.18530591 1.76740339 0.216429
+ 0.04121964 6.15241418 0.88461735 1.63646535 3.00221997 2.78200061]
+ ||$hadfield_euc_shape2_paramseed-3_sp-0123_p-6.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.74417877 4.41905248 1.16217397 3.79396088 1.96533103 0.4118324
+ 0.04136847 5.26005789 0.81526509 1.47080835 3.12759533 3.9562898 ]
+ ||$hadfield_euc_shape3_paramseed-3_sp-0123_p-6.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.69370844 3.89319461 2.19235214 3.79121891 1.92100332 0.37551915
+ 0.041328   5.46723495 0.68235169 1.40718013 3.11000151 2.96893505]
+ ||$hadfield_neuc_shape2_paramseed-4_sp-0123_p-6.txt$optimal function value: 65.76070403
+optimal value: [1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[0.74060735 0.88390082 1.16161651 0.96009617 1.11272696 2.2913702
+ 2.88226324 4.98023697 3.40714479 1.42388206 2.67258981 1.72489441]
+ ||$hadfield_neuc_shape3_paramseed-4_sp-0123_p-6.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.70573676 0.62209309 1.25226423 0.95913938 0.20551085 3.37958634
+ 2.88387095 5.23108659 2.4004143  1.38226473 1.96451891 1.73026199]
+ ||$hadfield_euc_shape2_paramseed-4_sp-0123_p-6.txt$optimal function value: 30.655645410000005
+optimal value: [0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.73911625 1.56498972 1.06814604 1.01252533 0.27658186 3.55677277
+ 2.8796957  5.02792136 2.41147354 1.27293792 1.71713808 1.73973346]
+ ||$hadfield_euc_shape3_paramseed-4_sp-0123_p-6.txt$optimal function value: 32.53962615999998
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.62862615 1.49819763 1.27992011 1.18580018 0.17898746 3.45363879
+ 2.78447119 4.97914181 2.39093485 2.36205383 1.43796497 2.93189658]
+ ||$hadfield_neuc_shape3_paramseed-5_sp-0123_p-6.txt$optimal function value: 44.55872038000001
+optimal value: [0. 1. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0. 1.]
+status: SUCCESS
+ ||[1.95060412 4.67828523 2.50719653 6.93084695 2.34094053 5.78431214
+ 0.09092226 3.93338054 2.96483171 4.07258042 2.84047144 0.68183625]
+ ||
