@@ -1,9 +1,5 @@
 # Master's Thesis
-This repository contains the code for my Master's thesis in mathematics (see [thesis_final.pdf](https://github.com/aubreycoffey/TSP-Quantum-Computing/blob/main/thesis_final.pdf)):
-Thesis: “Quantum algorithms for variants of the Traveling Salesperson Problem (TSP)”
-In this work, I introduce two new quadratic unconstrained binary optimization formulations for the capacitated vehicle routing problem and a 
-new quantum algorithm for the TSP based on graph states, the graph state alternating operator ansatz (GSAOA). We also benchmark some existing
-quantum algorithms against the GSAOA. 
+This repository contains the code for my Master's thesis in mathematics (see [thesis_final.pdf](https://github.com/aubreycoffey/TSP-Quantum-Computing/blob/main/thesis_final.pdf)) “Quantum algorithms for variants of the Traveling Salesperson Problem (TSP)”. In this work, I introduce two new quadratic unconstrained binary optimization formulations for the capacitated vehicle routing problem and a new quantum algorithm for the TSP based on graph states, the graph state alternating operator ansatz (GSAOA). We also benchmark some existing quantum algorithms against the GSAOA. 
 ## Implementation
 As part of this thesis, we implemented several quantum algorithms to benchmark against our own algorithm. Those algorithms are the quantum alternating
 operator ansatz (AOA) from Hadfield (hadfield.py), the quantum approximate optimization algorithm (QAOA) (qaoa.py), warm-start QAOA (wsqaoa.py). There
