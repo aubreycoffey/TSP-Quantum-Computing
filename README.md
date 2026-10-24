@@ -14,3 +14,6 @@ same folder and the theory behind the algorithm is detailed in chapter 6 of the 
 
 ## Author
 Aubrey Coffey · [github.com/aubreycoffey](https://github.com/aubreycoffey)
+
+## License
+gsaoa.py is released under the MIT License (see LICENSE). Other files, including hadfield.py and wsqaoa.py, are adapted from the repositories cited at the top of each file and remain under their original terms.
