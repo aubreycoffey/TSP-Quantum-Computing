@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Aubrey Coffey. Licensed under the MIT License (see LICENSE).
+
 import numpy as np
 from qiskit import QuantumCircuit
 from qiskit import Aer, execute
